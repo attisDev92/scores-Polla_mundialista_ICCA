@@ -1,0 +1,1729 @@
+nombre,id_partido,grupo,equipo_a,equipo_b,goles_a,goles_b
+Diego Guzman,1,A,Mexico,Sudafrica,2,0
+Diego Guzman,2,A,Corea Sur,Chequia,1,1
+Diego Guzman,3,B,Canada,Bosnia,2,1
+Diego Guzman,4,D,USA,Paraguay,2,1
+Diego Guzman,5,C,Haiti,Escocia,0,2
+Diego Guzman,6,D,Australia,Turquia,1,1
+Diego Guzman,7,C,Brasil,Marruecos,3,1
+Diego Guzman,8,B,Catar,Suiza,0,2
+Diego Guzman,9,E,Alemania,Curazao,3,0
+Diego Guzman,10,E,Costa de Marfil,Ecuador,0,1
+Diego Guzman,11,F,Holanda,Japon,2,1
+Diego Guzman,12,F,Suecia,Tunez,2,0
+Diego Guzman,13,H,Arabia Saudi,Uruguay,0,2
+Diego Guzman,14,H,España,Cabo Verde,3,0
+Diego Guzman,15,G,Iran,Nueva Zelanda,1,1
+Diego Guzman,16,G,Belgica,Egipto,2,1
+Diego Guzman,17,I,Francia,Senegal,2,1
+Diego Guzman,18,I,Irak,Noruega,1,2
+Diego Guzman,19,J,Argentina,Argelia,3,0
+Diego Guzman,20,J,Austria,Jordania,2,0
+Diego Guzman,21,L,Ghana,Panamá,2,1
+Diego Guzman,22,L,Inglaterra,Croacia,2,1
+Diego Guzman,23,K,Portugal,Congo,3,0
+Diego Guzman,24,K,Uzbekistan,Colombia,0,2
+Diego Guzman,25,A,Checa,Sudafrica,2,0
+Diego Guzman,26,B,Suiza,Bosnia,2,1
+Diego Guzman,27,B,Canada,Catar,2,0
+Diego Guzman,28,A,Mexico,Corea,2,1
+Diego Guzman,29,C,Brasil,Haiti,4,0
+Diego Guzman,30,C,Escocia,Marruecos,1,1
+Diego Guzman,31,D,Turquia,Paraguay,2,1
+Diego Guzman,32,D,USA,Australia,2,1
+Diego Guzman,33,E,Alemania,Costa de Marfil,2,1
+Diego Guzman,34,E,Ecuador,Curazao,3,0
+Diego Guzman,35,F,Holanda,Suecia,2,1
+Diego Guzman,36,F,Tunez,Japon,1,2
+Diego Guzman,37,H,Uruguay,Cabo Verde,3,0
+Diego Guzman,38,H,España,Arabia Saudi,3,0
+Diego Guzman,39,G,Belgica,Iran,2,1
+Diego Guzman,40,G,Nueva Zelanda,Egipto,0,2
+Diego Guzman,41,I,Noruega,Senegal,1,1
+Diego Guzman,42,I,Francia,Irak,3,0
+Diego Guzman,43,J,Argentina,Austria,2,1
+Diego Guzman,44,J,Jordania,Argelia,0,2
+Diego Guzman,45,L,Inglaterra,Ghana,2,1
+Diego Guzman,46,L,Panama,Croacia,1,2
+Diego Guzman,47,K,Portugal,Uzbekistan,3,0
+Diego Guzman,48,K,Colombia,Congo,1,1
+Diego Guzman,49,C,Escocia,Brasil,0,2
+Diego Guzman,50,C,Marruecos,Haiti,2,0
+Diego Guzman,51,B,Suiza,Canada,1,1
+Diego Guzman,52,B,Bosnia,Catar,2,0
+Diego Guzman,53,A,Checa,Mexico,1,1
+Diego Guzman,54,A,Sudafrica,Corea,2,1
+Diego Guzman,55,E,Curazao,Costa de Marfil,0,2
+Diego Guzman,56,E,Ecuador,Alemania,1,1
+Diego Guzman,57,F,Japon,Suecia,1,1
+Diego Guzman,58,F,Tunez,Holanda,0,2
+Diego Guzman,59,D,Turquia,USA,1,1
+Diego Guzman,60,D,Paraguay,Australia,2,1
+Diego Guzman,61,I,Noruega,Francia,1,2
+Diego Guzman,62,I,Senegal,Irak,2,0
+Diego Guzman,63,G,Egipto,Iran,1,1
+Diego Guzman,64,G,Nueva Zelanda,Belgica,0,3
+Diego Guzman,65,H,Cabo verde,Arabia Saudi,1,1
+Diego Guzman,66,H,Uruguay,España,1,2
+Diego Guzman,67,L,Panama,Inglaterra,0,3
+Diego Guzman,68,L,Croacia,Ghana,1,1
+Diego Guzman,69,J,Argelia,Austria,1,1
+Diego Guzman,70,J,Jordania,Argentina,0,3
+Diego Guzman,71,K,Colombia,Portugal,0,2
+Diego Guzman,72,K,Congo,Uzbekistan,1,1
+Rafael Barriga,1,A,Mexico,Sudafrica,2,1
+Rafael Barriga,2,A,Corea Sur,Chequia,0,1
+Rafael Barriga,3,B,Canada,Bosnia,0,0
+Rafael Barriga,4,D,USA,Paraguay,2,2
+Rafael Barriga,5,C,Haiti,Escocia,0,3
+Rafael Barriga,6,D,Australia,Turquia,0,1
+Rafael Barriga,7,C,Brasil,Marruecos,1,1
+Rafael Barriga,8,B,Catar,Suiza,0,2
+Rafael Barriga,9,E,Alemania,Curazao,4,0
+Rafael Barriga,10,E,Costa de Marfil,Ecuador,2,1
+Rafael Barriga,11,F,Holanda,Japon,2,0
+Rafael Barriga,12,F,Suecia,Tunez,1,0
+Rafael Barriga,13,H,Arabia Saudi,Uruguay,0,1
+Rafael Barriga,14,H,España,Cabo Verde,4,0
+Rafael Barriga,15,G,Iran,Nueva Zelanda,1,0
+Rafael Barriga,16,G,Belgica,Egipto,2,0
+Rafael Barriga,17,I,Francia,Senegal,2,1
+Rafael Barriga,18,I,Irak,Noruega,0,3
+Rafael Barriga,19,J,Argentina,Argelia,1,1
+Rafael Barriga,20,J,Austria,Jordania,2,0
+Rafael Barriga,21,L,Ghana,Panamá,3,0
+Rafael Barriga,22,L,Inglaterra,Croacia,2,0
+Rafael Barriga,23,K,Portugal,Congo,2,0
+Rafael Barriga,24,K,Uzbekistan,Colombia,1,2
+Rafael Barriga,25,A,Checa,Sudafrica,2,1
+Rafael Barriga,26,B,Suiza,Bosnia,1,0
+Rafael Barriga,27,B,Canada,Catar,0,0
+Rafael Barriga,28,A,Mexico,Corea,1,0
+Rafael Barriga,29,C,Brasil,Haiti,2,0
+Rafael Barriga,30,C,Escocia,Marruecos,1,2
+Rafael Barriga,31,D,Turquia,Paraguay,1,1
+Rafael Barriga,32,D,USA,Australia,2,0
+Rafael Barriga,33,E,Alemania,Costa de Marfil,2,1
+Rafael Barriga,34,E,Ecuador,Curazao,1,0
+Rafael Barriga,35,F,Holanda,Suecia,1,1
+Rafael Barriga,36,F,Tunez,Japon,1,0
+Rafael Barriga,37,H,Uruguay,Cabo Verde,2,0
+Rafael Barriga,38,H,España,Arabia Saudi,3,0
+Rafael Barriga,39,G,Belgica,Iran,2,0
+Rafael Barriga,40,G,Nueva Zelanda,Egipto,0,1
+Rafael Barriga,41,I,Noruega,Senegal,3,2
+Rafael Barriga,42,I,Francia,Irak,3,0
+Rafael Barriga,43,J,Argentina,Austria,1,1
+Rafael Barriga,44,J,Jordania,Argelia,0,1
+Rafael Barriga,45,L,Inglaterra,Ghana,2,0
+Rafael Barriga,46,L,Panama,Croacia,1,3
+Rafael Barriga,47,K,Portugal,Uzbekistan,2,0
+Rafael Barriga,48,K,Colombia,Congo,2,0
+Rafael Barriga,49,C,Escocia,Brasil,1,1
+Rafael Barriga,50,C,Marruecos,Haiti,3,0
+Rafael Barriga,51,B,Suiza,Canada,3,1
+Rafael Barriga,52,B,Bosnia,Catar,2,0
+Rafael Barriga,53,A,Checa,Mexico,1,0
+Rafael Barriga,54,A,Sudafrica,Corea,0,1
+Rafael Barriga,55,E,Curazao,Costa de Marfil,0,3
+Rafael Barriga,56,E,Ecuador,Alemania,0,2
+Rafael Barriga,57,F,Japon,Suecia,0,2
+Rafael Barriga,58,F,Tunez,Holanda,0,2
+Rafael Barriga,59,D,Turquia,USA,1,1
+Rafael Barriga,60,D,Paraguay,Australia,2,1
+Rafael Barriga,61,I,Noruega,Francia,1,2
+Rafael Barriga,62,I,Senegal,Irak,3,0
+Rafael Barriga,63,G,Egipto,Iran,2,0
+Rafael Barriga,64,G,Nueva Zelanda,Belgica,0,2
+Rafael Barriga,65,H,Cabo verde,Arabia Saudi,0,1
+Rafael Barriga,66,H,Uruguay,España,1,1
+Rafael Barriga,67,L,Panama,Inglaterra,1,5
+Rafael Barriga,68,L,Croacia,Ghana,2,2
+Rafael Barriga,69,J,Argelia,Austria,1,2
+Rafael Barriga,70,J,Jordania,Argentina,0,3
+Rafael Barriga,71,K,Colombia,Portugal,0,2
+Rafael Barriga,72,K,Congo,Uzbekistan,0,1
+Emilia Padilla,1,A,Mexico,Sudafrica,1,2
+Emilia Padilla,2,A,Corea Sur,Chequia,2,0
+Emilia Padilla,3,B,Canada,Bosnia,1,1
+Emilia Padilla,4,D,USA,Paraguay,1,1
+Emilia Padilla,5,C,Haiti,Escocia,0,2
+Emilia Padilla,6,D,Australia,Turquia,1,2
+Emilia Padilla,7,C,Brasil,Marruecos,2,1
+Emilia Padilla,8,B,Catar,Suiza,0,2
+Emilia Padilla,9,E,Alemania,Curazao,3,0
+Emilia Padilla,10,E,Costa de Marfil,Ecuador,0,2
+Emilia Padilla,11,F,Holanda,Japon,3,1
+Emilia Padilla,12,F,Suecia,Tunez,1,1
+Emilia Padilla,13,H,Arabia Saudi,Uruguay,0,2
+Emilia Padilla,14,H,España,Cabo Verde,2,0
+Emilia Padilla,15,G,Iran,Nueva Zelanda,1,0
+Emilia Padilla,16,G,Belgica,Egipto,2,1
+Emilia Padilla,17,I,Francia,Senegal,2,0
+Emilia Padilla,18,I,Irak,Noruega,1,2
+Emilia Padilla,19,J,Argentina,Argelia,2,0
+Emilia Padilla,20,J,Austria,Jordania,2,0
+Emilia Padilla,21,L,Ghana,Panamá,2,0
+Emilia Padilla,22,L,Inglaterra,Croacia,1,1
+Emilia Padilla,23,K,Portugal,Congo,2,0
+Emilia Padilla,24,K,Uzbekistan,Colombia,1,2
+Emilia Padilla,25,A,Checa,Sudafrica,0,1
+Emilia Padilla,26,B,Suiza,Bosnia,1,0
+Emilia Padilla,27,B,Canada,Catar,1,0
+Emilia Padilla,28,A,Mexico,Corea,1,1
+Emilia Padilla,29,C,Brasil,Haiti,3,0
+Emilia Padilla,30,C,Escocia,Marruecos,0,2
+Emilia Padilla,31,D,Turquia,Paraguay,1,1
+Emilia Padilla,32,D,USA,Australia,1,1
+Emilia Padilla,33,E,Alemania,Costa de Marfil,2,1
+Emilia Padilla,34,E,Ecuador,Curazao,3,1
+Emilia Padilla,35,F,Holanda,Suecia,2,0
+Emilia Padilla,36,F,Tunez,Japon,0,2
+Emilia Padilla,37,H,Uruguay,Cabo Verde,2,0
+Emilia Padilla,38,H,España,Arabia Saudi,3,0
+Emilia Padilla,39,G,Belgica,Iran,2,1
+Emilia Padilla,40,G,Nueva Zelanda,Egipto,0,2
+Emilia Padilla,41,I,Noruega,Senegal,1,1
+Emilia Padilla,42,I,Francia,Irak,2,0
+Emilia Padilla,43,J,Argentina,Austria,2,1
+Emilia Padilla,44,J,Jordania,Argelia,1,2
+Emilia Padilla,45,L,Inglaterra,Ghana,1,0
+Emilia Padilla,46,L,Panama,Croacia,0,2
+Emilia Padilla,47,K,Portugal,Uzbekistan,3,1
+Emilia Padilla,48,K,Colombia,Congo,2,2
+Emilia Padilla,49,C,Escocia,Brasil,1,3
+Emilia Padilla,50,C,Marruecos,Haiti,2,0
+Emilia Padilla,51,B,Suiza,Canada,1,1
+Emilia Padilla,52,B,Bosnia,Catar,2,1
+Emilia Padilla,53,A,Checa,Mexico,0,2
+Emilia Padilla,54,A,Sudafrica,Corea,0,2
+Emilia Padilla,55,E,Curazao,Costa de Marfil,1,2
+Emilia Padilla,56,E,Ecuador,Alemania,2,2
+Emilia Padilla,57,F,Japon,Suecia,2,1
+Emilia Padilla,58,F,Tunez,Holanda,1,2
+Emilia Padilla,59,D,Turquia,USA,2,1
+Emilia Padilla,60,D,Paraguay,Australia,1,2
+Emilia Padilla,61,I,Noruega,Francia,1,3
+Emilia Padilla,62,I,Senegal,Irak,2,1
+Emilia Padilla,63,G,Egipto,Iran,2,1
+Emilia Padilla,64,G,Nueva Zelanda,Belgica,0,3
+Emilia Padilla,65,H,Cabo verde,Arabia Saudi,1,1
+Emilia Padilla,66,H,Uruguay,España,1,3
+Emilia Padilla,67,L,Panama,Inglaterra,0,3
+Emilia Padilla,68,L,Croacia,Ghana,2,2
+Emilia Padilla,69,J,Argelia,Austria,1,2
+Emilia Padilla,70,J,Jordania,Argentina,2,3
+Emilia Padilla,71,K,Colombia,Portugal,2,3
+Emilia Padilla,72,K,Congo,Uzbekistan,1,2
+Vinicio Benalcázar,1,A,Mexico,Sudafrica,3,1
+Vinicio Benalcázar,2,A,Corea Sur,Chequia,2,0
+Vinicio Benalcázar,3,B,Canada,Bosnia,1,0
+Vinicio Benalcázar,4,D,USA,Paraguay,0,1
+Vinicio Benalcázar,5,C,Haiti,Escocia,0,2
+Vinicio Benalcázar,6,D,Australia,Turquia,0,2
+Vinicio Benalcázar,7,C,Brasil,Marruecos,2,2
+Vinicio Benalcázar,8,B,Catar,Suiza,0,2
+Vinicio Benalcázar,9,E,Alemania,Curazao,5,0
+Vinicio Benalcázar,10,E,Costa de Marfil,Ecuador,0,1
+Vinicio Benalcázar,11,F,Holanda,Japon,1,1
+Vinicio Benalcázar,12,F,Suecia,Tunez,2,0
+Vinicio Benalcázar,13,H,Arabia Saudi,Uruguay,0,2
+Vinicio Benalcázar,14,H,España,Cabo Verde,5,0
+Vinicio Benalcázar,15,G,Iran,Nueva Zelanda,0,1
+Vinicio Benalcázar,16,G,Belgica,Egipto,1,0
+Vinicio Benalcázar,17,I,Francia,Senegal,3,1
+Vinicio Benalcázar,18,I,Irak,Noruega,0,2
+Vinicio Benalcázar,19,J,Argentina,Argelia,3,0
+Vinicio Benalcázar,20,J,Austria,Jordania,2,0
+Vinicio Benalcázar,21,L,Ghana,Panamá,2,0
+Vinicio Benalcázar,22,L,Inglaterra,Croacia,2,1
+Vinicio Benalcázar,23,K,Portugal,Congo,2,0
+Vinicio Benalcázar,24,K,Uzbekistan,Colombia,0,3
+Vinicio Benalcázar,25,A,Checa,Sudafrica,1,1
+Vinicio Benalcázar,26,B,Suiza,Bosnia,2,1
+Vinicio Benalcázar,27,B,Canada,Catar,2,0
+Vinicio Benalcázar,28,A,Mexico,Corea,2,1
+Vinicio Benalcázar,29,C,Brasil,Haiti,4,0
+Vinicio Benalcázar,30,C,Escocia,Marruecos,1,2
+Vinicio Benalcázar,31,D,Turquia,Paraguay,0,0
+Vinicio Benalcázar,32,D,USA,Australia,2,1
+Vinicio Benalcázar,33,E,Alemania,Costa de Marfil,2,0
+Vinicio Benalcázar,34,E,Ecuador,Curazao,3,0
+Vinicio Benalcázar,35,F,Holanda,Suecia,2,0
+Vinicio Benalcázar,36,F,Tunez,Japon,1,3
+Vinicio Benalcázar,37,H,Uruguay,Cabo Verde,3,0
+Vinicio Benalcázar,38,H,España,Arabia Saudi,4,0
+Vinicio Benalcázar,39,G,Belgica,Iran,2,0
+Vinicio Benalcázar,40,G,Nueva Zelanda,Egipto,1,1
+Vinicio Benalcázar,41,I,Noruega,Senegal,2,1
+Vinicio Benalcázar,42,I,Francia,Irak,4,0
+Vinicio Benalcázar,43,J,Argentina,Austria,2,0
+Vinicio Benalcázar,44,J,Jordania,Argelia,0,1
+Vinicio Benalcázar,45,L,Inglaterra,Ghana,2,0
+Vinicio Benalcázar,46,L,Panama,Croacia,0,2
+Vinicio Benalcázar,47,K,Portugal,Uzbekistan,5,1
+Vinicio Benalcázar,48,K,Colombia,Congo,1,0
+Vinicio Benalcázar,49,C,Escocia,Brasil,1,3
+Vinicio Benalcázar,50,C,Marruecos,Haiti,3,0
+Vinicio Benalcázar,51,B,Suiza,Canada,1,1
+Vinicio Benalcázar,52,B,Bosnia,Catar,2,0
+Vinicio Benalcázar,53,A,Checa,Mexico,1,3
+Vinicio Benalcázar,54,A,Sudafrica,Corea,0,2
+Vinicio Benalcázar,55,E,Curazao,Costa de Marfil,0,2
+Vinicio Benalcázar,56,E,Ecuador,Alemania,0,2
+Vinicio Benalcázar,57,F,Japon,Suecia,2,1
+Vinicio Benalcázar,58,F,Tunez,Holanda,1,3
+Vinicio Benalcázar,59,D,Turquia,USA,1,1
+Vinicio Benalcázar,60,D,Paraguay,Australia,2,0
+Vinicio Benalcázar,61,I,Noruega,Francia,1,2
+Vinicio Benalcázar,62,I,Senegal,Irak,2,0
+Vinicio Benalcázar,63,G,Egipto,Iran,1,0
+Vinicio Benalcázar,64,G,Nueva Zelanda,Belgica,0,2
+Vinicio Benalcázar,65,H,Cabo verde,Arabia Saudi,1,1
+Vinicio Benalcázar,66,H,Uruguay,España,0,2
+Vinicio Benalcázar,67,L,Panama,Inglaterra,0,3
+Vinicio Benalcázar,68,L,Croacia,Ghana,2,1
+Vinicio Benalcázar,69,J,Argelia,Austria,0,2
+Vinicio Benalcázar,70,J,Jordania,Argentina,0,4
+Vinicio Benalcázar,71,K,Colombia,Portugal,0,2
+Vinicio Benalcázar,72,K,Congo,Uzbekistan,3,1
+Sol Yepez,1,A,Mexico,Sudafrica,1,0
+Sol Yepez,2,A,Corea Sur,Chequia,2,1
+Sol Yepez,3,B,Canada,Bosnia,2,1
+Sol Yepez,4,D,USA,Paraguay,0,2
+Sol Yepez,5,C,Haiti,Escocia,1,3
+Sol Yepez,6,D,Australia,Turquia,1,0
+Sol Yepez,7,C,Brasil,Marruecos,2,1
+Sol Yepez,8,B,Catar,Suiza,0,1
+Sol Yepez,9,E,Alemania,Curazao,2,0
+Sol Yepez,10,E,Costa de Marfil,Ecuador,0,2
+Sol Yepez,11,F,Holanda,Japon,2,1
+Sol Yepez,12,F,Suecia,Tunez,2,0
+Sol Yepez,13,H,Arabia Saudi,Uruguay,0,2
+Sol Yepez,14,H,España,Cabo Verde,3,1
+Sol Yepez,15,G,Iran,Nueva Zelanda,0,2
+Sol Yepez,16,G,Belgica,Egipto,3,1
+Sol Yepez,17,I,Francia,Senegal,2,1
+Sol Yepez,18,I,Irak,Noruega,0,1
+Sol Yepez,19,J,Argentina,Argelia,2,0
+Sol Yepez,20,J,Austria,Jordania,1,0
+Sol Yepez,21,L,Ghana,Panamá,1,0
+Sol Yepez,22,L,Inglaterra,Croacia,0,1
+Sol Yepez,23,K,Portugal,Congo,2,1
+Sol Yepez,24,K,Uzbekistan,Colombia,0,2
+Sol Yepez,25,A,Checa,Sudafrica,1,2
+Sol Yepez,26,B,Suiza,Bosnia,1,0
+Sol Yepez,27,B,Canada,Catar,1,0
+Sol Yepez,28,A,Mexico,Corea,1,1
+Sol Yepez,29,C,Brasil,Haiti,3,1
+Sol Yepez,30,C,Escocia,Marruecos,2,1
+Sol Yepez,31,D,Turquia,Paraguay,0,1
+Sol Yepez,32,D,USA,Australia,1,0
+Sol Yepez,33,E,Alemania,Costa de Marfil,2,0
+Sol Yepez,34,E,Ecuador,Curazao,3,0
+Sol Yepez,35,F,Holanda,Suecia,1,0
+Sol Yepez,36,F,Tunez,Japon,0,1
+Sol Yepez,37,H,Uruguay,Cabo Verde,2,0
+Sol Yepez,38,H,España,Arabia Saudi,2,0
+Sol Yepez,39,G,Belgica,Iran,1,0
+Sol Yepez,40,G,Nueva Zelanda,Egipto,1,0
+Sol Yepez,41,I,Noruega,Senegal,0,1
+Sol Yepez,42,I,Francia,Irak,2,0
+Sol Yepez,43,J,Argentina,Austria,2,0
+Sol Yepez,44,J,Jordania,Argelia,1,1
+Sol Yepez,45,L,Inglaterra,Ghana,2,1
+Sol Yepez,46,L,Panama,Croacia,0,1
+Sol Yepez,47,K,Portugal,Uzbekistan,3,0
+Sol Yepez,48,K,Colombia,Congo,2,0
+Sol Yepez,49,C,Escocia,Brasil,1,3
+Sol Yepez,50,C,Marruecos,Haiti,2,1
+Sol Yepez,51,B,Suiza,Canada,1,0
+Sol Yepez,52,B,Bosnia,Catar,1,1
+Sol Yepez,53,A,Checa,Mexico,0,1
+Sol Yepez,54,A,Sudafrica,Corea,0,1
+Sol Yepez,55,E,Curazao,Costa de Marfil,0,0
+Sol Yepez,56,E,Ecuador,Alemania,1,1
+Sol Yepez,57,F,Japon,Suecia,0,1
+Sol Yepez,58,F,Tunez,Holanda,0,2
+Sol Yepez,59,D,Turquia,USA,0,0
+Sol Yepez,60,D,Paraguay,Australia,1,1
+Sol Yepez,61,I,Noruega,Francia,1,2
+Sol Yepez,62,I,Senegal,Irak,1,1
+Sol Yepez,63,G,Egipto,Iran,0,0
+Sol Yepez,64,G,Nueva Zelanda,Belgica,0,1
+Sol Yepez,65,H,Cabo verde,Arabia Saudi,0,0
+Sol Yepez,66,H,Uruguay,España,1,2
+Sol Yepez,67,L,Panama,Inglaterra,0,3
+Sol Yepez,68,L,Croacia,Ghana,1,0
+Sol Yepez,69,J,Argelia,Austria,0,1
+Sol Yepez,70,J,Jordania,Argentina,0,3
+Sol Yepez,71,K,Colombia,Portugal,0,2
+Sol Yepez,72,K,Congo,Uzbekistan,0,0
+Melissa Salazar,1,A,Mexico,Sudafrica,2,0
+Melissa Salazar,2,A,Corea Sur,Chequia,1,1
+Melissa Salazar,3,B,Canada,Bosnia,2,1
+Melissa Salazar,4,D,USA,Paraguay,1,1
+Melissa Salazar,5,C,Haiti,Escocia,0,2
+Melissa Salazar,6,D,Australia,Turquia,1,2
+Melissa Salazar,7,C,Brasil,Marruecos,3,2
+Melissa Salazar,8,B,Catar,Suiza,0,2
+Melissa Salazar,9,E,Alemania,Curazao,4,0
+Melissa Salazar,10,E,Costa de Marfil,Ecuador,1,1
+Melissa Salazar,11,F,Holanda,Japon,2,1
+Melissa Salazar,12,F,Suecia,Tunez,1,1
+Melissa Salazar,13,H,Arabia Saudi,Uruguay,0,2
+Melissa Salazar,14,H,España,Cabo Verde,3,0
+Melissa Salazar,15,G,Iran,Nueva Zelanda,1,2
+Melissa Salazar,16,G,Belgica,Egipto,2,1
+Melissa Salazar,17,I,Francia,Senegal,2,1
+Melissa Salazar,18,I,Irak,Noruega,1,2
+Melissa Salazar,19,J,Argentina,Argelia,3,1
+Melissa Salazar,20,J,Austria,Jordania,2,0
+Melissa Salazar,21,L,Ghana,Panamá,2,1
+Melissa Salazar,22,L,Inglaterra,Croacia,4,2
+Melissa Salazar,23,K,Portugal,Congo,3,0
+Melissa Salazar,24,K,Uzbekistan,Colombia,1,2
+Melissa Salazar,25,A,Checa,Sudafrica,2,1
+Melissa Salazar,26,B,Suiza,Bosnia,2,1
+Melissa Salazar,27,B,Canada,Catar,2,2
+Melissa Salazar,28,A,Mexico,Corea,3,1
+Melissa Salazar,29,C,Brasil,Haiti,4,0
+Melissa Salazar,30,C,Escocia,Marruecos,1,2
+Melissa Salazar,31,D,Turquia,Paraguay,2,1
+Melissa Salazar,32,D,USA,Australia,2,2
+Melissa Salazar,33,E,Alemania,Costa de Marfil,2,1
+Melissa Salazar,34,E,Ecuador,Curazao,2,0
+Melissa Salazar,35,F,Holanda,Suecia,1,1
+Melissa Salazar,36,F,Tunez,Japon,1,2
+Melissa Salazar,37,H,Uruguay,Cabo Verde,2,0
+Melissa Salazar,38,H,España,Arabia Saudi,3,0
+Melissa Salazar,39,G,Belgica,Iran,2,1
+Melissa Salazar,40,G,Nueva Zelanda,Egipto,0,2
+Melissa Salazar,41,I,Noruega,Senegal,1,1
+Melissa Salazar,42,I,Francia,Irak,3,0
+Melissa Salazar,43,J,Argentina,Austria,2,1
+Melissa Salazar,44,J,Jordania,Argelia,0,2
+Melissa Salazar,45,L,Inglaterra,Ghana,2,1
+Melissa Salazar,46,L,Panama,Croacia,1,2
+Melissa Salazar,47,K,Portugal,Uzbekistan,3,0
+Melissa Salazar,48,K,Colombia,Congo,1,0
+Melissa Salazar,49,C,Escocia,Brasil,0,2
+Melissa Salazar,50,C,Marruecos,Haiti,3,0
+Melissa Salazar,51,B,Suiza,Canada,1,1
+Melissa Salazar,52,B,Bosnia,Catar,2,1
+Melissa Salazar,53,A,Checa,Mexico,1,1
+Melissa Salazar,54,A,Sudafrica,Corea,1,2
+Melissa Salazar,55,E,Curazao,Costa de Marfil,0,3
+Melissa Salazar,56,E,Ecuador,Alemania,0,4
+Melissa Salazar,57,F,Japon,Suecia,2,1
+Melissa Salazar,58,F,Tunez,Holanda,0,2
+Melissa Salazar,59,D,Turquia,USA,1,1
+Melissa Salazar,60,D,Paraguay,Australia,2,1
+Melissa Salazar,61,I,Noruega,Francia,1,2
+Melissa Salazar,62,I,Senegal,Irak,2,0
+Melissa Salazar,63,G,Egipto,Iran,1,1
+Melissa Salazar,64,G,Nueva Zelanda,Belgica,0,3
+Melissa Salazar,65,H,Cabo verde,Arabia Saudi,1,1
+Melissa Salazar,66,H,Uruguay,España,1,1
+Melissa Salazar,67,L,Panama,Inglaterra,0,3
+Melissa Salazar,68,L,Croacia,Ghana,2,1
+Melissa Salazar,69,J,Argelia,Austria,1,1
+Melissa Salazar,70,J,Jordania,Argentina,0,3
+Melissa Salazar,71,K,Colombia,Portugal,1,1
+Melissa Salazar,72,K,Congo,Uzbekistan,1,2
+Diego Chiri,1,A,Mexico,Sudafrica,2,0
+Diego Chiri,2,A,Corea Sur,Chequia,0,1
+Diego Chiri,3,B,Canada,Bosnia,2,1
+Diego Chiri,4,D,USA,Paraguay,2,1
+Diego Chiri,5,C,Haiti,Escocia,1,3
+Diego Chiri,6,D,Australia,Turquia,0,2
+Diego Chiri,7,C,Brasil,Marruecos,1,1
+Diego Chiri,8,B,Catar,Suiza,0,1
+Diego Chiri,9,E,Alemania,Curazao,3,0
+Diego Chiri,10,E,Costa de Marfil,Ecuador,0,0
+Diego Chiri,11,F,Holanda,Japon,0,1
+Diego Chiri,12,F,Suecia,Tunez,1,0
+Diego Chiri,13,H,Arabia Saudi,Uruguay,0,2
+Diego Chiri,14,H,España,Cabo Verde,3,0
+Diego Chiri,15,G,Iran,Nueva Zelanda,2,0
+Diego Chiri,16,G,Belgica,Egipto,2,0
+Diego Chiri,17,I,Francia,Senegal,1,0
+Diego Chiri,18,I,Irak,Noruega,0,1
+Diego Chiri,19,J,Argentina,Argelia,2,0
+Diego Chiri,20,J,Austria,Jordania,0,0
+Diego Chiri,21,L,Ghana,Panamá,1,0
+Diego Chiri,22,L,Inglaterra,Croacia,1,0
+Diego Chiri,23,K,Portugal,Congo,1,0
+Diego Chiri,24,K,Uzbekistan,Colombia,0,2
+Diego Chiri,25,A,Checa,Sudafrica,1,0
+Diego Chiri,26,B,Suiza,Bosnia,1,1
+Diego Chiri,27,B,Canada,Catar,1,0
+Diego Chiri,28,A,Mexico,Corea,1,0
+Diego Chiri,29,C,Brasil,Haiti,2,0
+Diego Chiri,30,C,Escocia,Marruecos,0,1
+Diego Chiri,31,D,Turquia,Paraguay,1,1
+Diego Chiri,32,D,USA,Australia,2,1
+Diego Chiri,33,E,Alemania,Costa de Marfil,2,1
+Diego Chiri,34,E,Ecuador,Curazao,2,0
+Diego Chiri,35,F,Holanda,Suecia,1,0
+Diego Chiri,36,F,Tunez,Japon,0,2
+Diego Chiri,37,H,Uruguay,Cabo Verde,3,0
+Diego Chiri,38,H,España,Arabia Saudi,3,1
+Diego Chiri,39,G,Belgica,Iran,0,1
+Diego Chiri,40,G,Nueva Zelanda,Egipto,0,1
+Diego Chiri,41,I,Noruega,Senegal,2,2
+Diego Chiri,42,I,Francia,Irak,3,2
+Diego Chiri,43,J,Argentina,Austria,2,0
+Diego Chiri,44,J,Jordania,Argelia,1,1
+Diego Chiri,45,L,Inglaterra,Ghana,2,2
+Diego Chiri,46,L,Panama,Croacia,0,1
+Diego Chiri,47,K,Portugal,Uzbekistan,2,0
+Diego Chiri,48,K,Colombia,Congo,1,0
+Diego Chiri,49,C,Escocia,Brasil,0,2
+Diego Chiri,50,C,Marruecos,Haiti,3,0
+Diego Chiri,51,B,Suiza,Canada,1,0
+Diego Chiri,52,B,Bosnia,Catar,2,3
+Diego Chiri,53,A,Checa,Mexico,0,0
+Diego Chiri,54,A,Sudafrica,Corea,1,1
+Diego Chiri,55,E,Curazao,Costa de Marfil,0,3
+Diego Chiri,56,E,Ecuador,Alemania,0,0
+Diego Chiri,57,F,Japon,Suecia,1,0
+Diego Chiri,58,F,Tunez,Holanda,1,3
+Diego Chiri,59,D,Turquia,USA,3,3
+Diego Chiri,60,D,Paraguay,Australia,1,0
+Diego Chiri,61,I,Noruega,Francia,0,0
+Diego Chiri,62,I,Senegal,Irak,1,0
+Diego Chiri,63,G,Egipto,Iran,2,1
+Diego Chiri,64,G,Nueva Zelanda,Belgica,0,3
+Diego Chiri,65,H,Cabo verde,Arabia Saudi,0,2
+Diego Chiri,66,H,Uruguay,España,2,1
+Diego Chiri,67,L,Panama,Inglaterra,1,3
+Diego Chiri,68,L,Croacia,Ghana,1,0
+Diego Chiri,69,J,Argelia,Austria,0,0
+Diego Chiri,70,J,Jordania,Argentina,0,3
+Diego Chiri,71,K,Colombia,Portugal,3,2
+Diego Chiri,72,K,Congo,Uzbekistan,0,0
+Greta Márquez,1,A,Mexico,Sudafrica,1,0
+Greta Márquez,2,A,Corea Sur,Chequia,1,0
+Greta Márquez,3,B,Canada,Bosnia,2,0
+Greta Márquez,4,D,USA,Paraguay,0,1
+Greta Márquez,5,C,Haiti,Escocia,1,0
+Greta Márquez,6,D,Australia,Turquia,1,2
+Greta Márquez,7,C,Brasil,Marruecos,1,2
+Greta Márquez,8,B,Catar,Suiza,0,2
+Greta Márquez,9,E,Alemania,Curazao,3,0
+Greta Márquez,10,E,Costa de Marfil,Ecuador,0,1
+Greta Márquez,11,F,Holanda,Japon,1,2
+Greta Márquez,12,F,Suecia,Tunez,1,1
+Greta Márquez,13,H,Arabia Saudi,Uruguay,0,2
+Greta Márquez,14,H,España,Cabo Verde,3,1
+Greta Márquez,15,G,Iran,Nueva Zelanda,0,1
+Greta Márquez,16,G,Belgica,Egipto,2,2
+Greta Márquez,17,I,Francia,Senegal,2,1
+Greta Márquez,18,I,Irak,Noruega,1,2
+Greta Márquez,19,J,Argentina,Argelia,2,0
+Greta Márquez,20,J,Austria,Jordania,1,1
+Greta Márquez,21,L,Ghana,Panamá,2,0
+Greta Márquez,22,L,Inglaterra,Croacia,1,2
+Greta Márquez,23,K,Portugal,Congo,2,0
+Greta Márquez,24,K,Uzbekistan,Colombia,0,2
+Greta Márquez,25,A,Checa,Sudafrica,1,0
+Greta Márquez,26,B,Suiza,Bosnia,2,0
+Greta Márquez,27,B,Canada,Catar,2,0
+Greta Márquez,28,A,Mexico,Corea,0,2
+Greta Márquez,29,C,Brasil,Haiti,0,0
+Greta Márquez,30,C,Escocia,Marruecos,1,0
+Greta Márquez,31,D,Turquia,Paraguay,0,0
+Greta Márquez,32,D,USA,Australia,2,1
+Greta Márquez,33,E,Alemania,Costa de Marfil,2,1
+Greta Márquez,34,E,Ecuador,Curazao,3,0
+Greta Márquez,35,F,Holanda,Suecia,1,0
+Greta Márquez,36,F,Tunez,Japon,1,2
+Greta Márquez,37,H,Uruguay,Cabo Verde,1,0
+Greta Márquez,38,H,España,Arabia Saudi,2,0
+Greta Márquez,39,G,Belgica,Iran,1,0
+Greta Márquez,40,G,Nueva Zelanda,Egipto,0,2
+Greta Márquez,41,I,Noruega,Senegal,1,1
+Greta Márquez,42,I,Francia,Irak,2,0
+Greta Márquez,43,J,Argentina,Austria,2,1
+Greta Márquez,44,J,Jordania,Argelia,1,1
+Greta Márquez,45,L,Inglaterra,Ghana,2,0
+Greta Márquez,46,L,Panama,Croacia,1,2
+Greta Márquez,47,K,Portugal,Uzbekistan,2,0
+Greta Márquez,48,K,Colombia,Congo,1,0
+Greta Márquez,49,C,Escocia,Brasil,0,2
+Greta Márquez,50,C,Marruecos,Haiti,1,2
+Greta Márquez,51,B,Suiza,Canada,1,0
+Greta Márquez,52,B,Bosnia,Catar,1,0
+Greta Márquez,53,A,Checa,Mexico,0,1
+Greta Márquez,54,A,Sudafrica,Corea,0,2
+Greta Márquez,55,E,Curazao,Costa de Marfil,1,1
+Greta Márquez,56,E,Ecuador,Alemania,1,1
+Greta Márquez,57,F,Japon,Suecia,2,2
+Greta Márquez,58,F,Tunez,Holanda,0,2
+Greta Márquez,59,D,Turquia,USA,2,2
+Greta Márquez,60,D,Paraguay,Australia,2,0
+Greta Márquez,61,I,Noruega,Francia,1,2
+Greta Márquez,62,I,Senegal,Irak,2,0
+Greta Márquez,63,G,Egipto,Iran,2,1
+Greta Márquez,64,G,Nueva Zelanda,Belgica,1,3
+Greta Márquez,65,H,Cabo verde,Arabia Saudi,1,1
+Greta Márquez,66,H,Uruguay,España,1,1
+Greta Márquez,67,L,Panama,Inglaterra,0,2
+Greta Márquez,68,L,Croacia,Ghana,1,0
+Greta Márquez,69,J,Argelia,Austria,0,1
+Greta Márquez,70,J,Jordania,Argentina,1,3
+Greta Márquez,71,K,Colombia,Portugal,1,2
+Greta Márquez,72,K,Congo,Uzbekistan,1,0
+ALLISON QUINTANILLA,1,A,Mexico,Sudafrica,2,0
+ALLISON QUINTANILLA,2,A,Corea Sur,Chequia,1,1
+ALLISON QUINTANILLA,3,B,Canada,Bosnia,2,1
+ALLISON QUINTANILLA,4,D,USA,Paraguay,2,1
+ALLISON QUINTANILLA,5,C,Haiti,Escocia,0,2
+ALLISON QUINTANILLA,6,D,Australia,Turquia,1,2
+ALLISON QUINTANILLA,7,C,Brasil,Marruecos,3,1
+ALLISON QUINTANILLA,8,B,Catar,Suiza,0,0
+ALLISON QUINTANILLA,9,E,Alemania,Curazao,4,0
+ALLISON QUINTANILLA,10,E,Costa de Marfil,Ecuador,1,1
+ALLISON QUINTANILLA,11,F,Holanda,Japon,2,1
+ALLISON QUINTANILLA,12,F,Suecia,Tunez,1,0
+ALLISON QUINTANILLA,13,H,Arabia Saudi,Uruguay,1,2
+ALLISON QUINTANILLA,14,H,España,Cabo Verde,3,0
+ALLISON QUINTANILLA,15,G,Iran,Nueva Zelanda,2,1
+ALLISON QUINTANILLA,16,G,Belgica,Egipto,2,0
+ALLISON QUINTANILLA,17,I,Francia,Senegal,2,0
+ALLISON QUINTANILLA,18,I,Irak,Noruega,1,3
+ALLISON QUINTANILLA,19,J,Argentina,Argelia,3,0
+ALLISON QUINTANILLA,20,J,Austria,Jordania,2,0
+ALLISON QUINTANILLA,21,L,Ghana,Panamá,2,1
+ALLISON QUINTANILLA,22,L,Inglaterra,Croacia,2,1
+ALLISON QUINTANILLA,23,K,Portugal,Congo,2,0
+ALLISON QUINTANILLA,24,K,Uzbekistan,Colombia,1,2
+ALLISON QUINTANILLA,25,A,Checa,Sudafrica,2,0
+ALLISON QUINTANILLA,26,B,Suiza,Bosnia,2,1
+ALLISON QUINTANILLA,27,B,Canada,Catar,3,1
+ALLISON QUINTANILLA,28,A,Mexico,Corea,2,1
+ALLISON QUINTANILLA,29,C,Brasil,Haiti,4,0
+ALLISON QUINTANILLA,30,C,Escocia,Marruecos,1,2
+ALLISON QUINTANILLA,31,D,Turquia,Paraguay,2,1
+ALLISON QUINTANILLA,32,D,USA,Australia,2,1
+ALLISON QUINTANILLA,33,E,Alemania,Costa de Marfil,3,2
+ALLISON QUINTANILLA,34,E,Ecuador,Curazao,3,0
+ALLISON QUINTANILLA,35,F,Holanda,Suecia,2,1
+ALLISON QUINTANILLA,36,F,Tunez,Japon,0,2
+ALLISON QUINTANILLA,37,H,Uruguay,Cabo Verde,3,0
+ALLISON QUINTANILLA,38,H,España,Arabia Saudi,3,0
+ALLISON QUINTANILLA,39,G,Belgica,Iran,2,0
+ALLISON QUINTANILLA,40,G,Nueva Zelanda,Egipto,1,2
+ALLISON QUINTANILLA,41,I,Noruega,Senegal,2,1
+ALLISON QUINTANILLA,42,I,Francia,Irak,4,0
+ALLISON QUINTANILLA,43,J,Argentina,Austria,2,0
+ALLISON QUINTANILLA,44,J,Jordania,Argelia,1,2
+ALLISON QUINTANILLA,45,L,Inglaterra,Ghana,2,0
+ALLISON QUINTANILLA,46,L,Panama,Croacia,0,2
+ALLISON QUINTANILLA,47,K,Portugal,Uzbekistan,3,0
+ALLISON QUINTANILLA,48,K,Colombia,Congo,2,0
+ALLISON QUINTANILLA,49,C,Escocia,Brasil,1,3
+ALLISON QUINTANILLA,50,C,Marruecos,Haiti,3,0
+ALLISON QUINTANILLA,51,B,Suiza,Canada,1,1
+ALLISON QUINTANILLA,52,B,Bosnia,Catar,2,0
+ALLISON QUINTANILLA,53,A,Checa,Mexico,1,2
+ALLISON QUINTANILLA,54,A,Sudafrica,Corea,1,2
+ALLISON QUINTANILLA,55,E,Curazao,Costa de Marfil,0,2
+ALLISON QUINTANILLA,56,E,Ecuador,Alemania,1,2
+ALLISON QUINTANILLA,57,F,Japon,Suecia,1,1
+ALLISON QUINTANILLA,58,F,Tunez,Holanda,0,2
+ALLISON QUINTANILLA,59,D,Turquia,USA,1,1
+ALLISON QUINTANILLA,60,D,Paraguay,Australia,2,1
+ALLISON QUINTANILLA,61,I,Noruega,Francia,1,2
+ALLISON QUINTANILLA,62,I,Senegal,Irak,2,0
+ALLISON QUINTANILLA,63,G,Egipto,Iran,1,1
+ALLISON QUINTANILLA,64,G,Nueva Zelanda,Belgica,0,3
+ALLISON QUINTANILLA,65,H,Cabo verde,Arabia Saudi,1,1
+ALLISON QUINTANILLA,66,H,Uruguay,España,1,2
+ALLISON QUINTANILLA,67,L,Panama,Inglaterra,0,3
+ALLISON QUINTANILLA,68,L,Croacia,Ghana,2,1
+ALLISON QUINTANILLA,69,J,Argelia,Austria,1,1
+ALLISON QUINTANILLA,70,J,Jordania,Argentina,0,3
+ALLISON QUINTANILLA,71,K,Colombia,Portugal,1,2
+ALLISON QUINTANILLA,72,K,Congo,Uzbekistan,2,1
+Juan Elías Bustillos,1,A,Mexico,Sudafrica,1,1
+Juan Elías Bustillos,2,A,Corea Sur,Chequia,2,0
+Juan Elías Bustillos,3,B,Canada,Bosnia,2,1
+Juan Elías Bustillos,4,D,USA,Paraguay,1,2
+Juan Elías Bustillos,5,C,Haiti,Escocia,0,2
+Juan Elías Bustillos,6,D,Australia,Turquia,1,1
+Juan Elías Bustillos,7,C,Brasil,Marruecos,1,1
+Juan Elías Bustillos,8,B,Catar,Suiza,0,3
+Juan Elías Bustillos,9,E,Alemania,Curazao,3,0
+Juan Elías Bustillos,10,E,Costa de Marfil,Ecuador,1,2
+Juan Elías Bustillos,11,F,Holanda,Japon,1,1
+Juan Elías Bustillos,12,F,Suecia,Tunez,1,0
+Juan Elías Bustillos,13,H,Arabia Saudi,Uruguay,1,2
+Juan Elías Bustillos,14,H,España,Cabo Verde,3,1
+Juan Elías Bustillos,15,G,Iran,Nueva Zelanda,1,1
+Juan Elías Bustillos,16,G,Belgica,Egipto,2,0
+Juan Elías Bustillos,17,I,Francia,Senegal,2,0
+Juan Elías Bustillos,18,I,Irak,Noruega,0,2
+Juan Elías Bustillos,19,J,Argentina,Argelia,3,1
+Juan Elías Bustillos,20,J,Austria,Jordania,1,0
+Juan Elías Bustillos,21,L,Ghana,Panamá,3,0
+Juan Elías Bustillos,22,L,Inglaterra,Croacia,1,1
+Juan Elías Bustillos,23,K,Portugal,Congo,2,1
+Juan Elías Bustillos,24,K,Uzbekistan,Colombia,0,1
+Juan Elías Bustillos,25,A,Checa,Sudafrica,1,1
+Juan Elías Bustillos,26,B,Suiza,Bosnia,2,1
+Juan Elías Bustillos,27,B,Canada,Catar,2,0
+Juan Elías Bustillos,28,A,Mexico,Corea,1,2
+Juan Elías Bustillos,29,C,Brasil,Haiti,3,0
+Juan Elías Bustillos,30,C,Escocia,Marruecos,0,1
+Juan Elías Bustillos,31,D,Turquia,Paraguay,0,1
+Juan Elías Bustillos,32,D,USA,Australia,1,0
+Juan Elías Bustillos,33,E,Alemania,Costa de Marfil,2,1
+Juan Elías Bustillos,34,E,Ecuador,Curazao,2,0
+Juan Elías Bustillos,35,F,Holanda,Suecia,2,2
+Juan Elías Bustillos,36,F,Tunez,Japon,1,2
+Juan Elías Bustillos,37,H,Uruguay,Cabo Verde,2,1
+Juan Elías Bustillos,38,H,España,Arabia Saudi,3,0
+Juan Elías Bustillos,39,G,Belgica,Iran,2,0
+Juan Elías Bustillos,40,G,Nueva Zelanda,Egipto,1,1
+Juan Elías Bustillos,41,I,Noruega,Senegal,2,2
+Juan Elías Bustillos,42,I,Francia,Irak,3,0
+Juan Elías Bustillos,43,J,Argentina,Austria,2,1
+Juan Elías Bustillos,44,J,Jordania,Argelia,0,1
+Juan Elías Bustillos,45,L,Inglaterra,Ghana,2,1
+Juan Elías Bustillos,46,L,Panama,Croacia,0,2
+Juan Elías Bustillos,47,K,Portugal,Uzbekistan,2,1
+Juan Elías Bustillos,48,K,Colombia,Congo,3,1
+Juan Elías Bustillos,49,C,Escocia,Brasil,1,2
+Juan Elías Bustillos,50,C,Marruecos,Haiti,2,1
+Juan Elías Bustillos,51,B,Suiza,Canada,1,1
+Juan Elías Bustillos,52,B,Bosnia,Catar,1,0
+Juan Elías Bustillos,53,A,Checa,Mexico,1,1
+Juan Elías Bustillos,54,A,Sudafrica,Corea,0,1
+Juan Elías Bustillos,55,E,Curazao,Costa de Marfil,1,2
+Juan Elías Bustillos,56,E,Ecuador,Alemania,1,0
+Juan Elías Bustillos,57,F,Japon,Suecia,2,0
+Juan Elías Bustillos,58,F,Tunez,Holanda,0,2
+Juan Elías Bustillos,59,D,Turquia,USA,1,1
+Juan Elías Bustillos,60,D,Paraguay,Australia,2,0
+Juan Elías Bustillos,61,I,Noruega,Francia,1,2
+Juan Elías Bustillos,62,I,Senegal,Irak,2,1
+Juan Elías Bustillos,63,G,Egipto,Iran,1,2
+Juan Elías Bustillos,64,G,Nueva Zelanda,Belgica,0,1
+Juan Elías Bustillos,65,H,Cabo verde,Arabia Saudi,1,1
+Juan Elías Bustillos,66,H,Uruguay,España,1,2
+Juan Elías Bustillos,67,L,Panama,Inglaterra,0,2
+Juan Elías Bustillos,68,L,Croacia,Ghana,2,2
+Juan Elías Bustillos,69,J,Argelia,Austria,1,1
+Juan Elías Bustillos,70,J,Jordania,Argentina,0,2
+Juan Elías Bustillos,71,K,Colombia,Portugal,2,2
+Juan Elías Bustillos,72,K,Congo,Uzbekistan,1,0
+MaJo Requelme,1,A,Mexico,Sudafrica,1,2
+MaJo Requelme,2,A,Corea Sur,Chequia,2,1
+MaJo Requelme,3,B,Canada,Bosnia,2,0
+MaJo Requelme,4,D,USA,Paraguay,2,1
+MaJo Requelme,5,C,Haiti,Escocia,2,0
+MaJo Requelme,6,D,Australia,Turquia,1,2
+MaJo Requelme,7,C,Brasil,Marruecos,3,2
+MaJo Requelme,8,B,Catar,Suiza,1,2
+MaJo Requelme,9,E,Alemania,Curazao,3,0
+MaJo Requelme,10,E,Costa de Marfil,Ecuador,1,2
+MaJo Requelme,11,F,Holanda,Japon,2,0
+MaJo Requelme,12,F,Suecia,Tunez,2,0
+MaJo Requelme,13,H,Arabia Saudi,Uruguay,0,1
+MaJo Requelme,14,H,España,Cabo Verde,2,0
+MaJo Requelme,15,G,Iran,Nueva Zelanda,1,1
+MaJo Requelme,16,G,Belgica,Egipto,1,2
+MaJo Requelme,17,I,Francia,Senegal,3,1
+MaJo Requelme,18,I,Irak,Noruega,2,1
+MaJo Requelme,19,J,Argentina,Argelia,2,0
+MaJo Requelme,20,J,Austria,Jordania,2,1
+MaJo Requelme,21,L,Ghana,Panamá,2,1
+MaJo Requelme,22,L,Inglaterra,Croacia,3,2
+MaJo Requelme,23,K,Portugal,Congo,2,0
+MaJo Requelme,24,K,Uzbekistan,Colombia,0,1
+MaJo Requelme,25,A,Checa,Sudafrica,1,2
+MaJo Requelme,26,B,Suiza,Bosnia,1,1
+MaJo Requelme,27,B,Canada,Catar,2,1
+MaJo Requelme,28,A,Mexico,Corea,1,1
+MaJo Requelme,29,C,Brasil,Haiti,4,1
+MaJo Requelme,30,C,Escocia,Marruecos,1,2
+MaJo Requelme,31,D,Turquia,Paraguay,1,2
+MaJo Requelme,32,D,USA,Australia,1,1
+MaJo Requelme,33,E,Alemania,Costa de Marfil,2,0
+MaJo Requelme,34,E,Ecuador,Curazao,2,0
+MaJo Requelme,35,F,Holanda,Suecia,2,0
+MaJo Requelme,36,F,Tunez,Japon,0,1
+MaJo Requelme,37,H,Uruguay,Cabo Verde,2,0
+MaJo Requelme,38,H,España,Arabia Saudi,2,1
+MaJo Requelme,39,G,Belgica,Iran,1,1
+MaJo Requelme,40,G,Nueva Zelanda,Egipto,1,2
+MaJo Requelme,41,I,Noruega,Senegal,1,2
+MaJo Requelme,42,I,Francia,Irak,2,0
+MaJo Requelme,43,J,Argentina,Austria,2,0
+MaJo Requelme,44,J,Jordania,Argelia,1,0
+MaJo Requelme,45,L,Inglaterra,Ghana,3,1
+MaJo Requelme,46,L,Panama,Croacia,1,2
+MaJo Requelme,47,K,Portugal,Uzbekistan,1,0
+MaJo Requelme,48,K,Colombia,Congo,2,1
+MaJo Requelme,49,C,Escocia,Brasil,1,2
+MaJo Requelme,50,C,Marruecos,Haiti,2,0
+MaJo Requelme,51,B,Suiza,Canada,1,1
+MaJo Requelme,52,B,Bosnia,Catar,1,1
+MaJo Requelme,53,A,Checa,Mexico,0,1
+MaJo Requelme,54,A,Sudafrica,Corea,1,2
+MaJo Requelme,55,E,Curazao,Costa de Marfil,1,1
+MaJo Requelme,56,E,Ecuador,Alemania,2,2
+MaJo Requelme,57,F,Japon,Suecia,1,2
+MaJo Requelme,58,F,Tunez,Holanda,1,2
+MaJo Requelme,59,D,Turquia,USA,1,1
+MaJo Requelme,60,D,Paraguay,Australia,0,0
+MaJo Requelme,61,I,Noruega,Francia,1,3
+MaJo Requelme,62,I,Senegal,Irak,2,0
+MaJo Requelme,63,G,Egipto,Iran,1,0
+MaJo Requelme,64,G,Nueva Zelanda,Belgica,1,0
+MaJo Requelme,65,H,Cabo verde,Arabia Saudi,0,1
+MaJo Requelme,66,H,Uruguay,España,1,2
+MaJo Requelme,67,L,Panama,Inglaterra,0,3
+MaJo Requelme,68,L,Croacia,Ghana,0,0
+MaJo Requelme,69,J,Argelia,Austria,1,1
+MaJo Requelme,70,J,Jordania,Argentina,1,2
+MaJo Requelme,71,K,Colombia,Portugal,1,1
+MaJo Requelme,72,K,Congo,Uzbekistan,1,0
+Gabriel Freire,1,A,Mexico,Sudafrica,2,1
+Gabriel Freire,2,A,Corea Sur,Chequia,1,0
+Gabriel Freire,3,B,Canada,Bosnia,1,0
+Gabriel Freire,4,D,USA,Paraguay,0,1
+Gabriel Freire,5,C,Haiti,Escocia,0,2
+Gabriel Freire,6,D,Australia,Turquia,0,1
+Gabriel Freire,7,C,Brasil,Marruecos,2,1
+Gabriel Freire,8,B,Catar,Suiza,0,1
+Gabriel Freire,9,E,Alemania,Curazao,3,0
+Gabriel Freire,10,E,Costa de Marfil,Ecuador,0,1
+Gabriel Freire,11,F,Holanda,Japon,1,1
+Gabriel Freire,12,F,Suecia,Tunez,2,0
+Gabriel Freire,13,H,Arabia Saudi,Uruguay,0,2
+Gabriel Freire,14,H,España,Cabo Verde,3,0
+Gabriel Freire,15,G,Iran,Nueva Zelanda,1,0
+Gabriel Freire,16,G,Belgica,Egipto,2,1
+Gabriel Freire,17,I,Francia,Senegal,2,1
+Gabriel Freire,18,I,Irak,Noruega,0,2
+Gabriel Freire,19,J,Argentina,Argelia,2,1
+Gabriel Freire,20,J,Austria,Jordania,2,0
+Gabriel Freire,21,L,Ghana,Panamá,1,0
+Gabriel Freire,22,L,Inglaterra,Croacia,2,1
+Gabriel Freire,23,K,Portugal,Congo,2,0
+Gabriel Freire,24,K,Uzbekistan,Colombia,0,2
+Gabriel Freire,25,A,Checa,Sudafrica,1,0
+Gabriel Freire,26,B,Suiza,Bosnia,2,1
+Gabriel Freire,27,B,Canada,Catar,2,0
+Gabriel Freire,28,A,Mexico,Corea,1,1
+Gabriel Freire,29,C,Brasil,Haiti,3,0
+Gabriel Freire,30,C,Escocia,Marruecos,0,1
+Gabriel Freire,31,D,Turquia,Paraguay,1,1
+Gabriel Freire,32,D,USA,Australia,2,1
+Gabriel Freire,33,E,Alemania,Costa de Marfil,2,1
+Gabriel Freire,34,E,Ecuador,Curazao,2,0
+Gabriel Freire,35,F,Holanda,Suecia,2,1
+Gabriel Freire,36,F,Tunez,Japon,2,1
+Gabriel Freire,37,H,Uruguay,Cabo Verde,2,0
+Gabriel Freire,38,H,España,Arabia Saudi,3,0
+Gabriel Freire,39,G,Belgica,Iran,2,1
+Gabriel Freire,40,G,Nueva Zelanda,Egipto,0,1
+Gabriel Freire,41,I,Noruega,Senegal,2,1
+Gabriel Freire,42,I,Francia,Irak,3,0
+Gabriel Freire,43,J,Argentina,Austria,2,1
+Gabriel Freire,44,J,Jordania,Argelia,0,2
+Gabriel Freire,45,L,Inglaterra,Ghana,3,1
+Gabriel Freire,46,L,Panama,Croacia,0,2
+Gabriel Freire,47,K,Portugal,Uzbekistan,3,0
+Gabriel Freire,48,K,Colombia,Congo,2,0
+Gabriel Freire,49,C,Escocia,Brasil,1,3
+Gabriel Freire,50,C,Marruecos,Haiti,2,0
+Gabriel Freire,51,B,Suiza,Canada,1,0
+Gabriel Freire,52,B,Bosnia,Catar,1,0
+Gabriel Freire,53,A,Checa,Mexico,0,1
+Gabriel Freire,54,A,Sudafrica,Corea,0,2
+Gabriel Freire,55,E,Curazao,Costa de Marfil,0,2
+Gabriel Freire,56,E,Ecuador,Alemania,1,1
+Gabriel Freire,57,F,Japon,Suecia,1,0
+Gabriel Freire,58,F,Tunez,Holanda,0,2
+Gabriel Freire,59,D,Turquia,USA,1,1
+Gabriel Freire,60,D,Paraguay,Australia,1,0
+Gabriel Freire,61,I,Noruega,Francia,1,2
+Gabriel Freire,62,I,Senegal,Irak,2,0
+Gabriel Freire,63,G,Egipto,Iran,1,1
+Gabriel Freire,64,G,Nueva Zelanda,Belgica,1,3
+Gabriel Freire,65,H,Cabo verde,Arabia Saudi,0,1
+Gabriel Freire,66,H,Uruguay,España,1,1
+Gabriel Freire,67,L,Panama,Inglaterra,0,3
+Gabriel Freire,68,L,Croacia,Ghana,2,1
+Gabriel Freire,69,J,Argelia,Austria,0,1
+Gabriel Freire,70,J,Jordania,Argentina,0,3
+Gabriel Freire,71,K,Colombia,Portugal,1,1
+Gabriel Freire,72,K,Congo,Uzbekistan,1,0
+Shirley Vallejo,1,A,Mexico,Sudafrica,2,0
+Shirley Vallejo,2,A,Corea Sur,Chequia,1,1
+Shirley Vallejo,3,B,Canada,Bosnia,2,1
+Shirley Vallejo,4,D,USA,Paraguay,2,1
+Shirley Vallejo,5,C,Haiti,Escocia,0,2
+Shirley Vallejo,6,D,Australia,Turquia,1,2
+Shirley Vallejo,7,C,Brasil,Marruecos,3,1
+Shirley Vallejo,8,B,Catar,Suiza,0,2
+Shirley Vallejo,9,E,Alemania,Curazao,4,0
+Shirley Vallejo,10,E,Costa de Marfil,Ecuador,2,1
+Shirley Vallejo,11,F,Holanda,Japon,2,1
+Shirley Vallejo,12,F,Suecia,Tunez,1,1
+Shirley Vallejo,13,H,Arabia Saudi,Uruguay,0,2
+Shirley Vallejo,14,H,España,Cabo Verde,3,0
+Shirley Vallejo,15,G,Iran,Nueva Zelanda,1,0
+Shirley Vallejo,16,G,Belgica,Egipto,2,1
+Shirley Vallejo,17,I,Francia,Senegal,2,1
+Shirley Vallejo,18,I,Irak,Noruega,0,2
+Shirley Vallejo,19,J,Argentina,Argelia,3,0
+Shirley Vallejo,20,J,Austria,Jordania,2,0
+Shirley Vallejo,21,L,Ghana,Panamá,2,1
+Shirley Vallejo,22,L,Inglaterra,Croacia,2,1
+Shirley Vallejo,23,K,Portugal,Congo,3,0
+Shirley Vallejo,24,K,Uzbekistan,Colombia,2,1
+Shirley Vallejo,25,A,Checa,Sudafrica,2,0
+Shirley Vallejo,26,B,Suiza,Bosnia,2,1
+Shirley Vallejo,27,B,Canada,Catar,2,1
+Shirley Vallejo,28,A,Mexico,Corea,1,1
+Shirley Vallejo,29,C,Brasil,Haiti,4,0
+Shirley Vallejo,30,C,Escocia,Marruecos,1,2
+Shirley Vallejo,31,D,Turquia,Paraguay,1,1
+Shirley Vallejo,32,D,USA,Australia,2,1
+Shirley Vallejo,33,E,Alemania,Costa de Marfil,1,1
+Shirley Vallejo,34,E,Ecuador,Curazao,3,0
+Shirley Vallejo,35,F,Holanda,Suecia,2,1
+Shirley Vallejo,36,F,Tunez,Japon,0,2
+Shirley Vallejo,37,H,Uruguay,Cabo Verde,2,0
+Shirley Vallejo,38,H,España,Arabia Saudi,2,0
+Shirley Vallejo,39,G,Belgica,Iran,2,0
+Shirley Vallejo,40,G,Nueva Zelanda,Egipto,1,1
+Shirley Vallejo,41,I,Noruega,Senegal,1,1
+Shirley Vallejo,42,I,Francia,Irak,3,0
+Shirley Vallejo,43,J,Argentina,Austria,2,0
+Shirley Vallejo,44,J,Jordania,Argelia,1,2
+Shirley Vallejo,45,L,Inglaterra,Ghana,2,1
+Shirley Vallejo,46,L,Panama,Croacia,0,2
+Shirley Vallejo,47,K,Portugal,Uzbekistan,3,1
+Shirley Vallejo,48,K,Colombia,Congo,2,0
+Shirley Vallejo,49,C,Escocia,Brasil,0,2
+Shirley Vallejo,50,C,Marruecos,Haiti,2,0
+Shirley Vallejo,51,B,Suiza,Canada,1,1
+Shirley Vallejo,52,B,Bosnia,Catar,2,0
+Shirley Vallejo,53,A,Checa,Mexico,1,2
+Shirley Vallejo,54,A,Sudafrica,Corea,1,2
+Shirley Vallejo,55,E,Curazao,Costa de Marfil,1,2
+Shirley Vallejo,56,E,Ecuador,Alemania,2,1
+Shirley Vallejo,57,F,Japon,Suecia,1,1
+Shirley Vallejo,58,F,Tunez,Holanda,0,2
+Shirley Vallejo,59,D,Turquia,USA,1,2
+Shirley Vallejo,60,D,Paraguay,Australia,1,1
+Shirley Vallejo,61,I,Noruega,Francia,1,2
+Shirley Vallejo,62,I,Senegal,Irak,2,0
+Shirley Vallejo,63,G,Egipto,Iran,1,1
+Shirley Vallejo,64,G,Nueva Zelanda,Belgica,0,3
+Shirley Vallejo,65,H,Cabo verde,Arabia Saudi,1,2
+Shirley Vallejo,66,H,Uruguay,España,2,1
+Shirley Vallejo,67,L,Panama,Inglaterra,0,3
+Shirley Vallejo,68,L,Croacia,Ghana,2,1
+Shirley Vallejo,69,J,Argelia,Austria,1,1
+Shirley Vallejo,70,J,Jordania,Argentina,0,3
+Shirley Vallejo,71,K,Colombia,Portugal,1,2
+Shirley Vallejo,72,K,Congo,Uzbekistan,1,2
+Viviana Flies,1,A,Mexico,Sudafrica,2,1
+Viviana Flies,2,A,Corea Sur,Chequia,1,1
+Viviana Flies,3,B,Canada,Bosnia,1,1
+Viviana Flies,4,D,USA,Paraguay,2,1
+Viviana Flies,5,C,Haiti,Escocia,0,2
+Viviana Flies,6,D,Australia,Turquia,1,2
+Viviana Flies,7,C,Brasil,Marruecos,2,1
+Viviana Flies,8,B,Catar,Suiza,0,2
+Viviana Flies,9,E,Alemania,Curazao,3,0
+Viviana Flies,10,E,Costa de Marfil,Ecuador,1,1
+Viviana Flies,11,F,Holanda,Japon,2,1
+Viviana Flies,12,F,Suecia,Tunez,1,0
+Viviana Flies,13,H,Arabia Saudi,Uruguay,0,2
+Viviana Flies,14,H,España,Cabo Verde,3,0
+Viviana Flies,15,G,Iran,Nueva Zelanda,2,0
+Viviana Flies,16,G,Belgica,Egipto,2,1
+Viviana Flies,17,I,Francia,Senegal,2,0
+Viviana Flies,18,I,Irak,Noruega,0,2
+Viviana Flies,19,J,Argentina,Argelia,2,0
+Viviana Flies,20,J,Austria,Jordania,2,0
+Viviana Flies,21,L,Ghana,Panamá,2,1
+Viviana Flies,22,L,Inglaterra,Croacia,1,1
+Viviana Flies,23,K,Portugal,Congo,3,0
+Viviana Flies,24,K,Uzbekistan,Colombia,1,2
+Viviana Flies,25,A,Checa,Sudafrica,2,1
+Viviana Flies,26,B,Suiza,Bosnia,1,0
+Viviana Flies,27,B,Canada,Catar,2,0
+Viviana Flies,28,A,Mexico,Corea,1,1
+Viviana Flies,29,C,Brasil,Haiti,3,0
+Viviana Flies,30,C,Escocia,Marruecos,1,1
+Viviana Flies,31,D,Turquia,Paraguay,1,1
+Viviana Flies,32,D,USA,Australia,2,1
+Viviana Flies,33,E,Alemania,Costa de Marfil,2,1
+Viviana Flies,34,E,Ecuador,Curazao,2,0
+Viviana Flies,35,F,Holanda,Suecia,1,1
+Viviana Flies,36,F,Tunez,Japon,1,2
+Viviana Flies,37,H,Uruguay,Cabo Verde,2,0
+Viviana Flies,38,H,España,Arabia Saudi,3,1
+Viviana Flies,39,G,Belgica,Iran,2,0
+Viviana Flies,40,G,Nueva Zelanda,Egipto,0,1
+Viviana Flies,41,I,Noruega,Senegal,1,1
+Viviana Flies,42,I,Francia,Irak,3,0
+Viviana Flies,43,J,Argentina,Austria,2,1
+Viviana Flies,44,J,Jordania,Argelia,0,1
+Viviana Flies,45,L,Inglaterra,Ghana,2,0
+Viviana Flies,46,L,Panama,Croacia,0,2
+Viviana Flies,47,K,Portugal,Uzbekistan,2,0
+Viviana Flies,48,K,Colombia,Congo,2,0
+Viviana Flies,49,C,Escocia,Brasil,0,2
+Viviana Flies,50,C,Marruecos,Haiti,2,0
+Viviana Flies,51,B,Suiza,Canada,1,1
+Viviana Flies,52,B,Bosnia,Catar,2,0
+Viviana Flies,53,A,Checa,Mexico,1,2
+Viviana Flies,54,A,Sudafrica,Corea,1,2
+Viviana Flies,55,E,Curazao,Costa de Marfil,0,2
+Viviana Flies,56,E,Ecuador,Alemania,1,2
+Viviana Flies,57,F,Japon,Suecia,1,1
+Viviana Flies,58,F,Tunez,Holanda,0,2
+Viviana Flies,59,D,Turquia,USA,1,2
+Viviana Flies,60,D,Paraguay,Australia,1,1
+Viviana Flies,61,I,Noruega,Francia,1,2
+Viviana Flies,62,I,Senegal,Irak,2,0
+Viviana Flies,63,G,Egipto,Iran,1,1
+Viviana Flies,64,G,Nueva Zelanda,Belgica,0,3
+Viviana Flies,65,H,Cabo verde,Arabia Saudi,1,1
+Viviana Flies,66,H,Uruguay,España,1,2
+Viviana Flies,67,L,Panama,Inglaterra,0,3
+Viviana Flies,68,L,Croacia,Ghana,1,1
+Viviana Flies,69,J,Argelia,Austria,1,2
+Viviana Flies,70,J,Jordania,Argentina,0,3
+Viviana Flies,71,K,Colombia,Portugal,1,1
+Viviana Flies,72,K,Congo,Uzbekistan,1,1
+Daniela Ramírez,1,A,Mexico,Sudafrica,2,1
+Daniela Ramírez,2,A,Corea Sur,Chequia,1,1
+Daniela Ramírez,3,B,Canada,Bosnia,2,0
+Daniela Ramírez,4,D,USA,Paraguay,2,0
+Daniela Ramírez,5,C,Haiti,Escocia,0,2
+Daniela Ramírez,6,D,Australia,Turquia,1,2
+Daniela Ramírez,7,C,Brasil,Marruecos,2,1
+Daniela Ramírez,8,B,Catar,Suiza,1,2
+Daniela Ramírez,9,E,Alemania,Curazao,4,0
+Daniela Ramírez,10,E,Costa de Marfil,Ecuador,0,2
+Daniela Ramírez,11,F,Holanda,Japon,2,1
+Daniela Ramírez,12,F,Suecia,Tunez,2,0
+Daniela Ramírez,13,H,Arabia Saudi,Uruguay,0,2
+Daniela Ramírez,14,H,España,Cabo Verde,4,0
+Daniela Ramírez,15,G,Iran,Nueva Zelanda,1,0
+Daniela Ramírez,16,G,Belgica,Egipto,2,0
+Daniela Ramírez,17,I,Francia,Senegal,3,1
+Daniela Ramírez,18,I,Irak,Noruega,1,0
+Daniela Ramírez,19,J,Argentina,Argelia,3,0
+Daniela Ramírez,20,J,Austria,Jordania,2,0
+Daniela Ramírez,21,L,Ghana,Panamá,2,0
+Daniela Ramírez,22,L,Inglaterra,Croacia,1,1
+Daniela Ramírez,23,K,Portugal,Congo,3,0
+Daniela Ramírez,24,K,Uzbekistan,Colombia,0,2
+Daniela Ramírez,25,A,Checa,Sudafrica,1,1
+Daniela Ramírez,26,B,Suiza,Bosnia,2,0
+Daniela Ramírez,27,B,Canada,Catar,2,0
+Daniela Ramírez,28,A,Mexico,Corea,1,1
+Daniela Ramírez,29,C,Brasil,Haiti,4,0
+Daniela Ramírez,30,C,Escocia,Marruecos,1,1
+Daniela Ramírez,31,D,Turquia,Paraguay,1,0
+Daniela Ramírez,32,D,USA,Australia,3,0
+Daniela Ramírez,33,E,Alemania,Costa de Marfil,2,0
+Daniela Ramírez,34,E,Ecuador,Curazao,3,0
+Daniela Ramírez,35,F,Holanda,Suecia,1,1
+Daniela Ramírez,36,F,Tunez,Japon,0,2
+Daniela Ramírez,37,H,Uruguay,Cabo Verde,1,0
+Daniela Ramírez,38,H,España,Arabia Saudi,2,1
+Daniela Ramírez,39,G,Belgica,Iran,1,1
+Daniela Ramírez,40,G,Nueva Zelanda,Egipto,1,1
+Daniela Ramírez,41,I,Noruega,Senegal,1,1
+Daniela Ramírez,42,I,Francia,Irak,3,1
+Daniela Ramírez,43,J,Argentina,Austria,3,0
+Daniela Ramírez,44,J,Jordania,Argelia,0,0
+Daniela Ramírez,45,L,Inglaterra,Ghana,1,0
+Daniela Ramírez,46,L,Panama,Croacia,1,0
+Daniela Ramírez,47,K,Portugal,Uzbekistan,2,0
+Daniela Ramírez,48,K,Colombia,Congo,2,0
+Daniela Ramírez,49,C,Escocia,Brasil,0,2
+Daniela Ramírez,50,C,Marruecos,Haiti,2,0
+Daniela Ramírez,51,B,Suiza,Canada,2,1
+Daniela Ramírez,52,B,Bosnia,Catar,1,1
+Daniela Ramírez,53,A,Checa,Mexico,1,2
+Daniela Ramírez,54,A,Sudafrica,Corea,1,1
+Daniela Ramírez,55,E,Curazao,Costa de Marfil,1,1
+Daniela Ramírez,56,E,Ecuador,Alemania,3,2
+Daniela Ramírez,57,F,Japon,Suecia,1,1
+Daniela Ramírez,58,F,Tunez,Holanda,0,1
+Daniela Ramírez,59,D,Turquia,USA,0,2
+Daniela Ramírez,60,D,Paraguay,Australia,1,1
+Daniela Ramírez,61,I,Noruega,Francia,0,2
+Daniela Ramírez,62,I,Senegal,Irak,2,1
+Daniela Ramírez,63,G,Egipto,Iran,0,1
+Daniela Ramírez,64,G,Nueva Zelanda,Belgica,0,2
+Daniela Ramírez,65,H,Cabo verde,Arabia Saudi,0,1
+Daniela Ramírez,66,H,Uruguay,España,0,2
+Daniela Ramírez,67,L,Panama,Inglaterra,0,2
+Daniela Ramírez,68,L,Croacia,Ghana,1,1
+Daniela Ramírez,69,J,Argelia,Austria,0,2
+Daniela Ramírez,70,J,Jordania,Argentina,0,3
+Daniela Ramírez,71,K,Colombia,Portugal,2,3
+Daniela Ramírez,72,K,Congo,Uzbekistan,1,0
+CHRISTIAN CHICAIZA,1,A,Mexico,Sudafrica,2,1
+CHRISTIAN CHICAIZA,2,A,Corea Sur,Chequia,2,1
+CHRISTIAN CHICAIZA,3,B,Canada,Bosnia,1,1
+CHRISTIAN CHICAIZA,4,D,USA,Paraguay,1,1
+CHRISTIAN CHICAIZA,5,C,Haiti,Escocia,0,1
+CHRISTIAN CHICAIZA,6,D,Australia,Turquia,1,2
+CHRISTIAN CHICAIZA,7,C,Brasil,Marruecos,3,1
+CHRISTIAN CHICAIZA,8,B,Catar,Suiza,0,2
+CHRISTIAN CHICAIZA,9,E,Alemania,Curazao,4,0
+CHRISTIAN CHICAIZA,10,E,Costa de Marfil,Ecuador,1,1
+CHRISTIAN CHICAIZA,11,F,Holanda,Japon,2,0
+CHRISTIAN CHICAIZA,12,F,Suecia,Tunez,2,0
+CHRISTIAN CHICAIZA,13,H,Arabia Saudi,Uruguay,1,2
+CHRISTIAN CHICAIZA,14,H,España,Cabo Verde,4,0
+CHRISTIAN CHICAIZA,15,G,Iran,Nueva Zelanda,2,0
+CHRISTIAN CHICAIZA,16,G,Belgica,Egipto,2,0
+CHRISTIAN CHICAIZA,17,I,Francia,Senegal,3,1
+CHRISTIAN CHICAIZA,18,I,Irak,Noruega,1,1
+CHRISTIAN CHICAIZA,19,J,Argentina,Argelia,3,1
+CHRISTIAN CHICAIZA,20,J,Austria,Jordania,2,0
+CHRISTIAN CHICAIZA,21,L,Ghana,Panamá,3,0
+CHRISTIAN CHICAIZA,22,L,Inglaterra,Croacia,2,1
+CHRISTIAN CHICAIZA,23,K,Portugal,Congo,3,0
+CHRISTIAN CHICAIZA,24,K,Uzbekistan,Colombia,0,2
+CHRISTIAN CHICAIZA,25,A,Checa,Sudafrica,1,0
+CHRISTIAN CHICAIZA,26,B,Suiza,Bosnia,2,1
+CHRISTIAN CHICAIZA,27,B,Canada,Catar,2,0
+CHRISTIAN CHICAIZA,28,A,Mexico,Corea,1,2
+CHRISTIAN CHICAIZA,29,C,Brasil,Haiti,4,0
+CHRISTIAN CHICAIZA,30,C,Escocia,Marruecos,1,2
+CHRISTIAN CHICAIZA,31,D,Turquia,Paraguay,2,2
+CHRISTIAN CHICAIZA,32,D,USA,Australia,2,1
+CHRISTIAN CHICAIZA,33,E,Alemania,Costa de Marfil,2,2
+CHRISTIAN CHICAIZA,34,E,Ecuador,Curazao,3,0
+CHRISTIAN CHICAIZA,35,F,Holanda,Suecia,2,1
+CHRISTIAN CHICAIZA,36,F,Tunez,Japon,0,2
+CHRISTIAN CHICAIZA,37,H,Uruguay,Cabo Verde,3,0
+CHRISTIAN CHICAIZA,38,H,España,Arabia Saudi,3,1
+CHRISTIAN CHICAIZA,39,G,Belgica,Iran,2,1
+CHRISTIAN CHICAIZA,40,G,Nueva Zelanda,Egipto,0,1
+CHRISTIAN CHICAIZA,41,I,Noruega,Senegal,1,2
+CHRISTIAN CHICAIZA,42,I,Francia,Irak,3,0
+CHRISTIAN CHICAIZA,43,J,Argentina,Austria,3,1
+CHRISTIAN CHICAIZA,44,J,Jordania,Argelia,2,2
+CHRISTIAN CHICAIZA,45,L,Inglaterra,Ghana,2,2
+CHRISTIAN CHICAIZA,46,L,Panama,Croacia,0,3
+CHRISTIAN CHICAIZA,47,K,Portugal,Uzbekistan,3,0
+CHRISTIAN CHICAIZA,48,K,Colombia,Congo,3,0
+CHRISTIAN CHICAIZA,49,C,Escocia,Brasil,1,3
+CHRISTIAN CHICAIZA,50,C,Marruecos,Haiti,3,0
+CHRISTIAN CHICAIZA,51,B,Suiza,Canada,2,2
+CHRISTIAN CHICAIZA,52,B,Bosnia,Catar,2,0
+CHRISTIAN CHICAIZA,53,A,Checa,Mexico,2,2
+CHRISTIAN CHICAIZA,54,A,Sudafrica,Corea,1,3
+CHRISTIAN CHICAIZA,55,E,Curazao,Costa de Marfil,0,3
+CHRISTIAN CHICAIZA,56,E,Ecuador,Alemania,0,2
+CHRISTIAN CHICAIZA,57,F,Japon,Suecia,2,2
+CHRISTIAN CHICAIZA,58,F,Tunez,Holanda,0,3
+CHRISTIAN CHICAIZA,59,D,Turquia,USA,2,2
+CHRISTIAN CHICAIZA,60,D,Paraguay,Australia,2,1
+CHRISTIAN CHICAIZA,61,I,Noruega,Francia,1,3
+CHRISTIAN CHICAIZA,62,I,Senegal,Irak,2,0
+CHRISTIAN CHICAIZA,63,G,Egipto,Iran,2,2
+CHRISTIAN CHICAIZA,64,G,Nueva Zelanda,Belgica,0,2
+CHRISTIAN CHICAIZA,65,H,Cabo verde,Arabia Saudi,0,2
+CHRISTIAN CHICAIZA,66,H,Uruguay,España,1,2
+CHRISTIAN CHICAIZA,67,L,Panama,Inglaterra,0,3
+CHRISTIAN CHICAIZA,68,L,Croacia,Ghana,2,2
+CHRISTIAN CHICAIZA,69,J,Argelia,Austria,1,2
+CHRISTIAN CHICAIZA,70,J,Jordania,Argentina,0,3
+CHRISTIAN CHICAIZA,71,K,Colombia,Portugal,2,2
+CHRISTIAN CHICAIZA,72,K,Congo,Uzbekistan,1,1
+Christian Burnham,1,A,Mexico,Sudafrica,2,0
+Christian Burnham,2,A,Corea Sur,Chequia,2,1
+Christian Burnham,3,B,Canada,Bosnia,2,0
+Christian Burnham,4,D,USA,Paraguay,0,1
+Christian Burnham,5,C,Haiti,Escocia,0,3
+Christian Burnham,6,D,Australia,Turquia,1,2
+Christian Burnham,7,C,Brasil,Marruecos,2,2
+Christian Burnham,8,B,Catar,Suiza,0,2
+Christian Burnham,9,E,Alemania,Curazao,3,0
+Christian Burnham,10,E,Costa de Marfil,Ecuador,0,1
+Christian Burnham,11,F,Holanda,Japon,2,2
+Christian Burnham,12,F,Suecia,Tunez,2,0
+Christian Burnham,13,H,Arabia Saudi,Uruguay,0,2
+Christian Burnham,14,H,España,Cabo Verde,4,0
+Christian Burnham,15,G,Iran,Nueva Zelanda,2,0
+Christian Burnham,16,G,Belgica,Egipto,2,1
+Christian Burnham,17,I,Francia,Senegal,2,1
+Christian Burnham,18,I,Irak,Noruega,0,2
+Christian Burnham,19,J,Argentina,Argelia,2,0
+Christian Burnham,20,J,Austria,Jordania,2,0
+Christian Burnham,21,L,Ghana,Panamá,2,1
+Christian Burnham,22,L,Inglaterra,Croacia,2,1
+Christian Burnham,23,K,Portugal,Congo,2,0
+Christian Burnham,24,K,Uzbekistan,Colombia,0,2
+Christian Burnham,25,A,Checa,Sudafrica,1,2
+Christian Burnham,26,B,Suiza,Bosnia,2,0
+Christian Burnham,27,B,Canada,Catar,2,0
+Christian Burnham,28,A,Mexico,Corea,2,2
+Christian Burnham,29,C,Brasil,Haiti,4,0
+Christian Burnham,30,C,Escocia,Marruecos,0,2
+Christian Burnham,31,D,Turquia,Paraguay,1,2
+Christian Burnham,32,D,USA,Australia,2,0
+Christian Burnham,33,E,Alemania,Costa de Marfil,2,1
+Christian Burnham,34,E,Ecuador,Curazao,2,0
+Christian Burnham,35,F,Holanda,Suecia,2,0
+Christian Burnham,36,F,Tunez,Japon,0,2
+Christian Burnham,37,H,Uruguay,Cabo Verde,3,0
+Christian Burnham,38,H,España,Arabia Saudi,2,0
+Christian Burnham,39,G,Belgica,Iran,3,0
+Christian Burnham,40,G,Nueva Zelanda,Egipto,0,0
+Christian Burnham,41,I,Noruega,Senegal,1,1
+Christian Burnham,42,I,Francia,Irak,4,0
+Christian Burnham,43,J,Argentina,Austria,2,2
+Christian Burnham,44,J,Jordania,Argelia,0,2
+Christian Burnham,45,L,Inglaterra,Ghana,3,1
+Christian Burnham,46,L,Panama,Croacia,1,2
+Christian Burnham,47,K,Portugal,Uzbekistan,4,0
+Christian Burnham,48,K,Colombia,Congo,2,1
+Christian Burnham,49,C,Escocia,Brasil,1,2
+Christian Burnham,50,C,Marruecos,Haiti,3,0
+Christian Burnham,51,B,Suiza,Canada,1,1
+Christian Burnham,52,B,Bosnia,Catar,0,0
+Christian Burnham,53,A,Checa,Mexico,0,2
+Christian Burnham,54,A,Sudafrica,Corea,1,2
+Christian Burnham,55,E,Curazao,Costa de Marfil,1,2
+Christian Burnham,56,E,Ecuador,Alemania,0,0
+Christian Burnham,57,F,Japon,Suecia,2,1
+Christian Burnham,58,F,Tunez,Holanda,0,3
+Christian Burnham,59,D,Turquia,USA,3,2
+Christian Burnham,60,D,Paraguay,Australia,2,0
+Christian Burnham,61,I,Noruega,Francia,1,1
+Christian Burnham,62,I,Senegal,Irak,0,0
+Christian Burnham,63,G,Egipto,Iran,0,0
+Christian Burnham,64,G,Nueva Zelanda,Belgica,0,0
+Christian Burnham,65,H,Cabo verde,Arabia Saudi,1,2
+Christian Burnham,66,H,Uruguay,España,2,3
+Christian Burnham,67,L,Panama,Inglaterra,1,2
+Christian Burnham,68,L,Croacia,Ghana,2,1
+Christian Burnham,69,J,Argelia,Austria,1,1
+Christian Burnham,70,J,Jordania,Argentina,0,3
+Christian Burnham,71,K,Colombia,Portugal,1,1
+Christian Burnham,72,K,Congo,Uzbekistan,2,1
+María Elena Quimbiamba,1,A,Mexico,Sudafrica,2,1
+María Elena Quimbiamba,2,A,Corea Sur,Chequia,3,1
+María Elena Quimbiamba,3,B,Canada,Bosnia,3,1
+María Elena Quimbiamba,4,D,USA,Paraguay,2,3
+María Elena Quimbiamba,5,C,Haiti,Escocia,2,2
+María Elena Quimbiamba,6,D,Australia,Turquia,1,3
+María Elena Quimbiamba,7,C,Brasil,Marruecos,3,2
+María Elena Quimbiamba,8,B,Catar,Suiza,0,2
+María Elena Quimbiamba,9,E,Alemania,Curazao,4,0
+María Elena Quimbiamba,10,E,Costa de Marfil,Ecuador,1,2
+María Elena Quimbiamba,11,F,Holanda,Japon,2,3
+María Elena Quimbiamba,12,F,Suecia,Tunez,1,0
+María Elena Quimbiamba,13,H,Arabia Saudi,Uruguay,0,2
+María Elena Quimbiamba,14,H,España,Cabo Verde,6,1
+María Elena Quimbiamba,15,G,Iran,Nueva Zelanda,1,0
+María Elena Quimbiamba,16,G,Belgica,Egipto,2,2
+María Elena Quimbiamba,17,I,Francia,Senegal,3,1
+María Elena Quimbiamba,18,I,Irak,Noruega,0,2
+María Elena Quimbiamba,19,J,Argentina,Argelia,3,0
+María Elena Quimbiamba,20,J,Austria,Jordania,2,0
+María Elena Quimbiamba,21,L,Ghana,Panamá,2,1
+María Elena Quimbiamba,22,L,Inglaterra,Croacia,1,1
+María Elena Quimbiamba,23,K,Portugal,Congo,4,0
+María Elena Quimbiamba,24,K,Uzbekistan,Colombia,0,2
+María Elena Quimbiamba,25,A,Checa,Sudafrica,1,1
+María Elena Quimbiamba,26,B,Suiza,Bosnia,2,0
+María Elena Quimbiamba,27,B,Canada,Catar,2,0
+María Elena Quimbiamba,28,A,Mexico,Corea,2,2
+María Elena Quimbiamba,29,C,Brasil,Haiti,5,0
+María Elena Quimbiamba,30,C,Escocia,Marruecos,0,2
+María Elena Quimbiamba,31,D,Turquia,Paraguay,1,1
+María Elena Quimbiamba,32,D,USA,Australia,2,0
+María Elena Quimbiamba,33,E,Alemania,Costa de Marfil,3,2
+María Elena Quimbiamba,34,E,Ecuador,Curazao,2,0
+María Elena Quimbiamba,35,F,Holanda,Suecia,3,1
+María Elena Quimbiamba,36,F,Tunez,Japon,0,3
+María Elena Quimbiamba,37,H,Uruguay,Cabo Verde,2,0
+María Elena Quimbiamba,38,H,España,Arabia Saudi,4,1
+María Elena Quimbiamba,39,G,Belgica,Iran,2,0
+María Elena Quimbiamba,40,G,Nueva Zelanda,Egipto,0,1
+María Elena Quimbiamba,41,I,Noruega,Senegal,3,1
+María Elena Quimbiamba,42,I,Francia,Irak,6,1
+María Elena Quimbiamba,43,J,Argentina,Austria,2,0
+María Elena Quimbiamba,44,J,Jordania,Argelia,0,2
+María Elena Quimbiamba,45,L,Inglaterra,Ghana,3,0
+María Elena Quimbiamba,46,L,Panama,Croacia,1,3
+María Elena Quimbiamba,47,K,Portugal,Uzbekistan,4,0
+María Elena Quimbiamba,48,K,Colombia,Congo,3,0
+María Elena Quimbiamba,49,C,Escocia,Brasil,0,3
+María Elena Quimbiamba,50,C,Marruecos,Haiti,3,1
+María Elena Quimbiamba,51,B,Suiza,Canada,2,2
+María Elena Quimbiamba,52,B,Bosnia,Catar,1,0
+María Elena Quimbiamba,53,A,Checa,Mexico,0,1
+María Elena Quimbiamba,54,A,Sudafrica,Corea,1,2
+María Elena Quimbiamba,55,E,Curazao,Costa de Marfil,0,3
+María Elena Quimbiamba,56,E,Ecuador,Alemania,2,1
+María Elena Quimbiamba,57,F,Japon,Suecia,3,2
+María Elena Quimbiamba,58,F,Tunez,Holanda,0,3
+María Elena Quimbiamba,59,D,Turquia,USA,2,0
+María Elena Quimbiamba,60,D,Paraguay,Australia,1,1
+María Elena Quimbiamba,61,I,Noruega,Francia,2,3
+María Elena Quimbiamba,62,I,Senegal,Irak,2,0
+María Elena Quimbiamba,63,G,Egipto,Iran,1,1
+María Elena Quimbiamba,64,G,Nueva Zelanda,Belgica,0,3
+María Elena Quimbiamba,65,H,Cabo verde,Arabia Saudi,0,0
+María Elena Quimbiamba,66,H,Uruguay,España,2,3
+María Elena Quimbiamba,67,L,Panama,Inglaterra,0,3
+María Elena Quimbiamba,68,L,Croacia,Ghana,2,0
+María Elena Quimbiamba,69,J,Argelia,Austria,1,1
+María Elena Quimbiamba,70,J,Jordania,Argentina,0,4
+María Elena Quimbiamba,71,K,Colombia,Portugal,1,2
+María Elena Quimbiamba,72,K,Congo,Uzbekistan,1,1
+Carla Ochoa S,1,A,Mexico,Sudafrica,2,0
+Carla Ochoa S,2,A,Corea Sur,Chequia,2,0
+Carla Ochoa S,3,B,Canada,Bosnia,2,0
+Carla Ochoa S,4,D,USA,Paraguay,1,1
+Carla Ochoa S,5,C,Haiti,Escocia,0,1
+Carla Ochoa S,6,D,Australia,Turquia,0,2
+Carla Ochoa S,7,C,Brasil,Marruecos,2,1
+Carla Ochoa S,8,B,Catar,Suiza,2,0
+Carla Ochoa S,9,E,Alemania,Curazao,4,0
+Carla Ochoa S,10,E,Costa de Marfil,Ecuador,0,2
+Carla Ochoa S,11,F,Holanda,Japon,1,0
+Carla Ochoa S,12,F,Suecia,Tunez,3,0
+Carla Ochoa S,13,H,Arabia Saudi,Uruguay,0,2
+Carla Ochoa S,14,H,España,Cabo Verde,4,0
+Carla Ochoa S,15,G,Iran,Nueva Zelanda,2,0
+Carla Ochoa S,16,G,Belgica,Egipto,1,0
+Carla Ochoa S,17,I,Francia,Senegal,2,1
+Carla Ochoa S,18,I,Irak,Noruega,1,3
+Carla Ochoa S,19,J,Argentina,Argelia,3,0
+Carla Ochoa S,20,J,Austria,Jordania,2,0
+Carla Ochoa S,21,L,Ghana,Panamá,2,0
+Carla Ochoa S,22,L,Inglaterra,Croacia,2,1
+Carla Ochoa S,23,K,Portugal,Congo,3,1
+Carla Ochoa S,24,K,Uzbekistan,Colombia,0,2
+Carla Ochoa S,25,A,Checa,Sudafrica,0,1
+Carla Ochoa S,26,B,Suiza,Bosnia,1,0
+Carla Ochoa S,27,B,Canada,Catar,2,1
+Carla Ochoa S,28,A,Mexico,Corea,2,2
+Carla Ochoa S,29,C,Brasil,Haiti,3,0
+Carla Ochoa S,30,C,Escocia,Marruecos,1,2
+Carla Ochoa S,31,D,Turquia,Paraguay,1,1
+Carla Ochoa S,32,D,USA,Australia,2,1
+Carla Ochoa S,33,E,Alemania,Costa de Marfil,2,1
+Carla Ochoa S,34,E,Ecuador,Curazao,3,0
+Carla Ochoa S,35,F,Holanda,Suecia,0,0
+Carla Ochoa S,36,F,Tunez,Japon,0,1
+Carla Ochoa S,37,H,Uruguay,Cabo Verde,3,0
+Carla Ochoa S,38,H,España,Arabia Saudi,3,0
+Carla Ochoa S,39,G,Belgica,Iran,2,1
+Carla Ochoa S,40,G,Nueva Zelanda,Egipto,0,0
+Carla Ochoa S,41,I,Noruega,Senegal,2,1
+Carla Ochoa S,42,I,Francia,Irak,3,1
+Carla Ochoa S,43,J,Argentina,Austria,2,0
+Carla Ochoa S,44,J,Jordania,Argelia,1,1
+Carla Ochoa S,45,L,Inglaterra,Ghana,2,0
+Carla Ochoa S,46,L,Panama,Croacia,0,2
+Carla Ochoa S,47,K,Portugal,Uzbekistan,2,0
+Carla Ochoa S,48,K,Colombia,Congo,2,0
+Carla Ochoa S,49,C,Escocia,Brasil,0,2
+Carla Ochoa S,50,C,Marruecos,Haiti,2,0
+Carla Ochoa S,51,B,Suiza,Canada,1,2
+Carla Ochoa S,52,B,Bosnia,Catar,1,1
+Carla Ochoa S,53,A,Checa,Mexico,0,1
+Carla Ochoa S,54,A,Sudafrica,Corea,0,2
+Carla Ochoa S,55,E,Curazao,Costa de Marfil,0,2
+Carla Ochoa S,56,E,Ecuador,Alemania,0,1
+Carla Ochoa S,57,F,Japon,Suecia,0,1
+Carla Ochoa S,58,F,Tunez,Holanda,0,2
+Carla Ochoa S,59,D,Turquia,USA,1,0
+Carla Ochoa S,60,D,Paraguay,Australia,1,0
+Carla Ochoa S,61,I,Noruega,Francia,0,2
+Carla Ochoa S,62,I,Senegal,Irak,1,0
+Carla Ochoa S,63,G,Egipto,Iran,0,0
+Carla Ochoa S,64,G,Nueva Zelanda,Belgica,0,1
+Carla Ochoa S,65,H,Cabo verde,Arabia Saudi,0,0
+Carla Ochoa S,66,H,Uruguay,España,2,2
+Carla Ochoa S,67,L,Panama,Inglaterra,0,2
+Carla Ochoa S,68,L,Croacia,Ghana,1,0
+Carla Ochoa S,69,J,Argelia,Austria,0,0
+Carla Ochoa S,70,J,Jordania,Argentina,0,2
+Carla Ochoa S,71,K,Colombia,Portugal,1,1
+Carla Ochoa S,72,K,Congo,Uzbekistan,0,0
+Mauricio Cadena,1,A,Mexico,Sudafrica,1,3
+Mauricio Cadena,2,A,Corea Sur,Chequia,2,0
+Mauricio Cadena,3,B,Canada,Bosnia,4,1
+Mauricio Cadena,4,D,USA,Paraguay,2,1
+Mauricio Cadena,5,C,Haiti,Escocia,1,3
+Mauricio Cadena,6,D,Australia,Turquia,2,1
+Mauricio Cadena,7,C,Brasil,Marruecos,3,1
+Mauricio Cadena,8,B,Catar,Suiza,2,1
+Mauricio Cadena,9,E,Alemania,Curazao,4,0
+Mauricio Cadena,10,E,Costa de Marfil,Ecuador,0,1
+Mauricio Cadena,11,F,Holanda,Japon,2,0
+Mauricio Cadena,12,F,Suecia,Tunez,3,1
+Mauricio Cadena,13,H,Arabia Saudi,Uruguay,0,4
+Mauricio Cadena,14,H,España,Cabo Verde,2,1
+Mauricio Cadena,15,G,Iran,Nueva Zelanda,1,2
+Mauricio Cadena,16,G,Belgica,Egipto,3,1
+Mauricio Cadena,17,I,Francia,Senegal,2,0
+Mauricio Cadena,18,I,Irak,Noruega,1,2
+Mauricio Cadena,19,J,Argentina,Argelia,4,2
+Mauricio Cadena,20,J,Austria,Jordania,1,2
+Mauricio Cadena,21,L,Ghana,Panamá,2,1
+Mauricio Cadena,22,L,Inglaterra,Croacia,4,1
+Mauricio Cadena,23,K,Portugal,Congo,2,1
+Mauricio Cadena,24,K,Uzbekistan,Colombia,0,1
+Mauricio Cadena,25,A,Checa,Sudafrica,0,2
+Mauricio Cadena,26,B,Suiza,Bosnia,1,2
+Mauricio Cadena,27,B,Canada,Catar,3,1
+Mauricio Cadena,28,A,Mexico,Corea,1,2
+Mauricio Cadena,29,C,Brasil,Haiti,6,1
+Mauricio Cadena,30,C,Escocia,Marruecos,0,1
+Mauricio Cadena,31,D,Turquia,Paraguay,1,2
+Mauricio Cadena,32,D,USA,Australia,1,2
+Mauricio Cadena,33,E,Alemania,Costa de Marfil,4,2
+Mauricio Cadena,34,E,Ecuador,Curazao,1,1
+Mauricio Cadena,35,F,Holanda,Suecia,2,1
+Mauricio Cadena,36,F,Tunez,Japon,1,3
+Mauricio Cadena,37,H,Uruguay,Cabo Verde,1,3
+Mauricio Cadena,38,H,España,Arabia Saudi,2,1
+Mauricio Cadena,39,G,Belgica,Iran,3,1
+Mauricio Cadena,40,G,Nueva Zelanda,Egipto,2,1
+Mauricio Cadena,41,I,Noruega,Senegal,4,0
+Mauricio Cadena,42,I,Francia,Irak,2,0
+Mauricio Cadena,43,J,Argentina,Austria,3,1
+Mauricio Cadena,44,J,Jordania,Argelia,1,2
+Mauricio Cadena,45,L,Inglaterra,Ghana,2,0
+Mauricio Cadena,46,L,Panama,Croacia,1,3
+Mauricio Cadena,47,K,Portugal,Uzbekistan,3,1
+Mauricio Cadena,48,K,Colombia,Congo,2,1
+Mauricio Cadena,49,C,Escocia,Brasil,0,3
+Mauricio Cadena,50,C,Marruecos,Haiti,2,1
+Mauricio Cadena,51,B,Suiza,Canada,1,2
+Mauricio Cadena,52,B,Bosnia,Catar,3,1
+Mauricio Cadena,53,A,Checa,Mexico,2,1
+Mauricio Cadena,54,A,Sudafrica,Corea,3,1
+Mauricio Cadena,55,E,Curazao,Costa de Marfil,2,1
+Mauricio Cadena,56,E,Ecuador,Alemania,2,4
+Mauricio Cadena,57,F,Japon,Suecia,1,2
+Mauricio Cadena,58,F,Tunez,Holanda,1,3
+Mauricio Cadena,59,D,Turquia,USA,1,0
+Mauricio Cadena,60,D,Paraguay,Australia,0,2
+Mauricio Cadena,61,I,Noruega,Francia,1,3
+Mauricio Cadena,62,I,Senegal,Irak,0,1
+Mauricio Cadena,63,G,Egipto,Iran,1,1
+Mauricio Cadena,64,G,Nueva Zelanda,Belgica,2,2
+Mauricio Cadena,65,H,Cabo verde,Arabia Saudi,1,1
+Mauricio Cadena,66,H,Uruguay,España,2,1
+Mauricio Cadena,67,L,Panama,Inglaterra,1,3
+Mauricio Cadena,68,L,Croacia,Ghana,2,0
+Mauricio Cadena,69,J,Argelia,Austria,0,1
+Mauricio Cadena,70,J,Jordania,Argentina,0,2
+Mauricio Cadena,71,K,Colombia,Portugal,1,3
+Mauricio Cadena,72,K,Congo,Uzbekistan,1,0
+Diego Cruz,1,A,Mexico,Sudafrica,1,1
+Diego Cruz,2,A,Corea Sur,Chequia,0,1
+Diego Cruz,3,B,Canada,Bosnia,1,0
+Diego Cruz,4,D,USA,Paraguay,2,2
+Diego Cruz,5,C,Haiti,Escocia,0,2
+Diego Cruz,6,D,Australia,Turquia,0,2
+Diego Cruz,7,C,Brasil,Marruecos,2,1
+Diego Cruz,8,B,Catar,Suiza,0,3
+Diego Cruz,9,E,Alemania,Curazao,4,0
+Diego Cruz,10,E,Costa de Marfil,Ecuador,1,1
+Diego Cruz,11,F,Holanda,Japon,3,1
+Diego Cruz,12,F,Suecia,Tunez,1,0
+Diego Cruz,13,H,Arabia Saudi,Uruguay,0,2
+Diego Cruz,14,H,España,Cabo Verde,4,0
+Diego Cruz,15,G,Iran,Nueva Zelanda,1,1
+Diego Cruz,16,G,Belgica,Egipto,2,0
+Diego Cruz,17,I,Francia,Senegal,3,1
+Diego Cruz,18,I,Irak,Noruega,0,3
+Diego Cruz,19,J,Argentina,Argelia,2,1
+Diego Cruz,20,J,Austria,Jordania,2,0
+Diego Cruz,21,L,Ghana,Panamá,3,0
+Diego Cruz,22,L,Inglaterra,Croacia,2,1
+Diego Cruz,23,K,Portugal,Congo,3,0
+Diego Cruz,24,K,Uzbekistan,Colombia,1,2
+Diego Cruz,25,A,Checa,Sudafrica,2,1
+Diego Cruz,26,B,Suiza,Bosnia,1,0
+Diego Cruz,27,B,Canada,Catar,1,0
+Diego Cruz,28,A,Mexico,Corea,1,1
+Diego Cruz,29,C,Brasil,Haiti,3,0
+Diego Cruz,30,C,Escocia,Marruecos,1,2
+Diego Cruz,31,D,Turquia,Paraguay,2,1
+Diego Cruz,32,D,USA,Australia,1,1
+Diego Cruz,33,E,Alemania,Costa de Marfil,2,1
+Diego Cruz,34,E,Ecuador,Curazao,1,0
+Diego Cruz,35,F,Holanda,Suecia,2,1
+Diego Cruz,36,F,Tunez,Japon,1,1
+Diego Cruz,37,H,Uruguay,Cabo Verde,2,0
+Diego Cruz,38,H,España,Arabia Saudi,3,0
+Diego Cruz,39,G,Belgica,Iran,2,0
+Diego Cruz,40,G,Nueva Zelanda,Egipto,0,1
+Diego Cruz,41,I,Noruega,Senegal,2,1
+Diego Cruz,42,I,Francia,Irak,3,0
+Diego Cruz,43,J,Argentina,Austria,1,1
+Diego Cruz,44,J,Jordania,Argelia,0,1
+Diego Cruz,45,L,Inglaterra,Ghana,2,0
+Diego Cruz,46,L,Panama,Croacia,0,2
+Diego Cruz,47,K,Portugal,Uzbekistan,2,0
+Diego Cruz,48,K,Colombia,Congo,2,0
+Diego Cruz,49,C,Escocia,Brasil,1,2
+Diego Cruz,50,C,Marruecos,Haiti,3,0
+Diego Cruz,51,B,Suiza,Canada,2,1
+Diego Cruz,52,B,Bosnia,Catar,2,0
+Diego Cruz,53,A,Checa,Mexico,1,0
+Diego Cruz,54,A,Sudafrica,Corea,0,2
+Diego Cruz,55,E,Curazao,Costa de Marfil,0,3
+Diego Cruz,56,E,Ecuador,Alemania,0,2
+Diego Cruz,57,F,Japon,Suecia,1,2
+Diego Cruz,58,F,Tunez,Holanda,0,2
+Diego Cruz,59,D,Turquia,USA,2,1
+Diego Cruz,60,D,Paraguay,Australia,2,1
+Diego Cruz,61,I,Noruega,Francia,1,2
+Diego Cruz,62,I,Senegal,Irak,2,0
+Diego Cruz,63,G,Egipto,Iran,2,2
+Diego Cruz,64,G,Nueva Zelanda,Belgica,0,2
+Diego Cruz,65,H,Cabo verde,Arabia Saudi,0,1
+Diego Cruz,66,H,Uruguay,España,1,2
+Diego Cruz,67,L,Panama,Inglaterra,1,3
+Diego Cruz,68,L,Croacia,Ghana,2,2
+Diego Cruz,69,J,Argelia,Austria,2,2
+Diego Cruz,70,J,Jordania,Argentina,0,2
+Diego Cruz,71,K,Colombia,Portugal,1,2
+Diego Cruz,72,K,Congo,Uzbekistan,0,1
+Jorge Benitez,1,A,Mexico,Sudafrica,2,0
+Jorge Benitez,2,A,Corea Sur,Chequia,1,1
+Jorge Benitez,3,B,Canada,Bosnia,2,1
+Jorge Benitez,4,D,USA,Paraguay,1,1
+Jorge Benitez,5,C,Haiti,Escocia,0,2
+Jorge Benitez,6,D,Australia,Turquia,1,1
+Jorge Benitez,7,C,Brasil,Marruecos,3,0
+Jorge Benitez,8,B,Catar,Suiza,0,2
+Jorge Benitez,9,E,Alemania,Curazao,3,0
+Jorge Benitez,10,E,Costa de Marfil,Ecuador,0,1
+Jorge Benitez,11,F,Holanda,Japon,2,1
+Jorge Benitez,12,F,Suecia,Tunez,1,0
+Jorge Benitez,13,H,Arabia Saudi,Uruguay,0,2
+Jorge Benitez,14,H,España,Cabo Verde,3,0
+Jorge Benitez,15,G,Iran,Nueva Zelanda,1,1
+Jorge Benitez,16,G,Belgica,Egipto,2,0
+Jorge Benitez,17,I,Francia,Senegal,2,1
+Jorge Benitez,18,I,Irak,Noruega,0,2
+Jorge Benitez,19,J,Argentina,Argelia,3,0
+Jorge Benitez,20,J,Austria,Jordania,2,0
+Jorge Benitez,21,L,Ghana,Panamá,1,1
+Jorge Benitez,22,L,Inglaterra,Croacia,2,1
+Jorge Benitez,23,K,Portugal,Congo,3,0
+Jorge Benitez,24,K,Uzbekistan,Colombia,1,2
+Jorge Benitez,25,A,Checa,Sudafrica,2,0
+Jorge Benitez,26,B,Suiza,Bosnia,2,1
+Jorge Benitez,27,B,Canada,Catar,2,0
+Jorge Benitez,28,A,Mexico,Corea,2,1
+Jorge Benitez,29,C,Brasil,Haiti,4,0
+Jorge Benitez,30,C,Escocia,Marruecos,1,1
+Jorge Benitez,31,D,Turquia,Paraguay,1,1
+Jorge Benitez,32,D,USA,Australia,2,1
+Jorge Benitez,33,E,Alemania,Costa de Marfil,2,0
+Jorge Benitez,34,E,Ecuador,Curazao,2,0
+Jorge Benitez,35,F,Holanda,Suecia,1,1
+Jorge Benitez,36,F,Tunez,Japon,0,1
+Jorge Benitez,37,H,Uruguay,Cabo Verde,2,0
+Jorge Benitez,38,H,España,Arabia Saudi,3,0
+Jorge Benitez,39,G,Belgica,Iran,2,0
+Jorge Benitez,40,G,Nueva Zelanda,Egipto,1,1
+Jorge Benitez,41,I,Noruega,Senegal,1,1
+Jorge Benitez,42,I,Francia,Irak,3,0
+Jorge Benitez,43,J,Argentina,Austria,2,0
+Jorge Benitez,44,J,Jordania,Argelia,1,1
+Jorge Benitez,45,L,Inglaterra,Ghana,3,1
+Jorge Benitez,46,L,Panama,Croacia,0,2
+Jorge Benitez,47,K,Portugal,Uzbekistan,2,0
+Jorge Benitez,48,K,Colombia,Congo,3,0
+Jorge Benitez,49,C,Escocia,Brasil,1,2
+Jorge Benitez,50,C,Marruecos,Haiti,2,0
+Jorge Benitez,51,B,Suiza,Canada,1,1
+Jorge Benitez,52,B,Bosnia,Catar,2,0
+Jorge Benitez,53,A,Checa,Mexico,1,1
+Jorge Benitez,54,A,Sudafrica,Corea,1,1
+Jorge Benitez,55,E,Curazao,Costa de Marfil,0,2
+Jorge Benitez,56,E,Ecuador,Alemania,1,1
+Jorge Benitez,57,F,Japon,Suecia,1,1
+Jorge Benitez,58,F,Tunez,Holanda,0,2
+Jorge Benitez,59,D,Turquia,USA,1,1
+Jorge Benitez,60,D,Paraguay,Australia,2,1
+Jorge Benitez,61,I,Noruega,Francia,1,2
+Jorge Benitez,62,I,Senegal,Irak,2,0
+Jorge Benitez,63,G,Egipto,Iran,1,1
+Jorge Benitez,64,G,Nueva Zelanda,Belgica,0,3
+Jorge Benitez,65,H,Cabo verde,Arabia Saudi,0,1
+Jorge Benitez,66,H,Uruguay,España,1,1
+Jorge Benitez,67,L,Panama,Inglaterra,0,3
+Jorge Benitez,68,L,Croacia,Ghana,2,1
+Jorge Benitez,69,J,Argelia,Austria,1,1
+Jorge Benitez,70,J,Jordania,Argentina,0,3
+Jorge Benitez,71,K,Colombia,Portugal,1,1
+Jorge Benitez,72,K,Congo,Uzbekistan,0,1
+Andres Granda,1,A,Mexico,Sudafrica,1,1
+Andres Granda,2,A,Corea Sur,Chequia,2,0
+Andres Granda,3,B,Canada,Bosnia,1,0
+Andres Granda,4,D,USA,Paraguay,1,2
+Andres Granda,5,C,Haiti,Escocia,1,2
+Andres Granda,6,D,Australia,Turquia,0,2
+Andres Granda,7,C,Brasil,Marruecos,1,2
+Andres Granda,8,B,Catar,Suiza,0,2
+Andres Granda,9,E,Alemania,Curazao,5,0
+Andres Granda,10,E,Costa de Marfil,Ecuador,0,1
+Andres Granda,11,F,Holanda,Japon,2,2
+Andres Granda,12,F,Suecia,Tunez,2,1
+Andres Granda,13,H,Arabia Saudi,Uruguay,0,2
+Andres Granda,14,H,España,Cabo Verde,3,0
+Andres Granda,15,G,Iran,Nueva Zelanda,0,0
+Andres Granda,16,G,Belgica,Egipto,3,0
+Andres Granda,17,I,Francia,Senegal,3,1
+Andres Granda,18,I,Irak,Noruega,0,2
+Andres Granda,19,J,Argentina,Argelia,3,1
+Andres Granda,20,J,Austria,Jordania,2,0
+Andres Granda,21,L,Ghana,Panamá,2,0
+Andres Granda,22,L,Inglaterra,Croacia,2,1
+Andres Granda,23,K,Portugal,Congo,3,0
+Andres Granda,24,K,Uzbekistan,Colombia,0,2
+Andres Granda,25,A,Checa,Sudafrica,1,2
+Andres Granda,26,B,Suiza,Bosnia,1,1
+Andres Granda,27,B,Canada,Catar,3,0
+Andres Granda,28,A,Mexico,Corea,1,2
+Andres Granda,29,C,Brasil,Haiti,3,0
+Andres Granda,30,C,Escocia,Marruecos,0,2
+Andres Granda,31,D,Turquia,Paraguay,1,2
+Andres Granda,32,D,USA,Australia,2,0
+Andres Granda,33,E,Alemania,Costa de Marfil,2,2
+Andres Granda,34,E,Ecuador,Curazao,2,0
+Andres Granda,35,F,Holanda,Suecia,2,1
+Andres Granda,36,F,Tunez,Japon,1,2
+Andres Granda,37,H,Uruguay,Cabo Verde,3,0
+Andres Granda,38,H,España,Arabia Saudi,2,0
+Andres Granda,39,G,Belgica,Iran,1,0
+Andres Granda,40,G,Nueva Zelanda,Egipto,1,1
+Andres Granda,41,I,Noruega,Senegal,2,2
+Andres Granda,42,I,Francia,Irak,2,0
+Andres Granda,43,J,Argentina,Austria,3,0
+Andres Granda,44,J,Jordania,Argelia,0,2
+Andres Granda,45,L,Inglaterra,Ghana,1,0
+Andres Granda,46,L,Panama,Croacia,0,4
+Andres Granda,47,K,Portugal,Uzbekistan,3,1
+Andres Granda,48,K,Colombia,Congo,1,1
+Andres Granda,49,C,Escocia,Brasil,0,2
+Andres Granda,50,C,Marruecos,Haiti,2,1
+Andres Granda,51,B,Suiza,Canada,0,2
+Andres Granda,52,B,Bosnia,Catar,2,1
+Andres Granda,53,A,Checa,Mexico,0,1
+Andres Granda,54,A,Sudafrica,Corea,2,2
+Andres Granda,55,E,Curazao,Costa de Marfil,1,3
+Andres Granda,56,E,Ecuador,Alemania,0,0
+Andres Granda,57,F,Japon,Suecia,2,1
+Andres Granda,58,F,Tunez,Holanda,1,3
+Andres Granda,59,D,Turquia,USA,2,1
+Andres Granda,60,D,Paraguay,Australia,2,2
+Andres Granda,61,I,Noruega,Francia,1,3
+Andres Granda,62,I,Senegal,Irak,2,1
+Andres Granda,63,G,Egipto,Iran,2,1
+Andres Granda,64,G,Nueva Zelanda,Belgica,1,3
+Andres Granda,65,H,Cabo verde,Arabia Saudi,1,2
+Andres Granda,66,H,Uruguay,España,1,2
+Andres Granda,67,L,Panama,Inglaterra,1,3
+Andres Granda,68,L,Croacia,Ghana,2,1
+Andres Granda,69,J,Argelia,Austria,1,1
+Andres Granda,70,J,Jordania,Argentina,0,2
+Andres Granda,71,K,Colombia,Portugal,2,1
+Andres Granda,72,K,Congo,Uzbekistan,0,0
+Besta Paredes,1,A,Mexico,Sudafrica,2,0
+Besta Paredes,2,A,Corea Sur,Chequia,1,1
+Besta Paredes,3,B,Canada,Bosnia,2,1
+Besta Paredes,4,D,USA,Paraguay,3,0
+Besta Paredes,5,C,Haiti,Escocia,0,2
+Besta Paredes,6,D,Australia,Turquia,1,2
+Besta Paredes,7,C,Brasil,Marruecos,4,1
+Besta Paredes,8,B,Catar,Suiza,0,3
+Besta Paredes,9,E,Alemania,Curazao,4,1
+Besta Paredes,10,E,Costa de Marfil,Ecuador,1,1
+Besta Paredes,11,F,Holanda,Japon,3,0
+Besta Paredes,12,F,Suecia,Tunez,1,1
+Besta Paredes,13,H,Arabia Saudi,Uruguay,0,3
+Besta Paredes,14,H,España,Cabo Verde,4,1
+Besta Paredes,15,G,Iran,Nueva Zelanda,1,1
+Besta Paredes,16,G,Belgica,Egipto,3,1
+Besta Paredes,17,I,Francia,Senegal,2,1
+Besta Paredes,18,I,Irak,Noruega,2,2
+Besta Paredes,19,J,Argentina,Argelia,2,0
+Besta Paredes,20,J,Austria,Jordania,2,1
+Besta Paredes,21,L,Ghana,Panamá,2,1
+Besta Paredes,22,L,Inglaterra,Croacia,1,2
+Besta Paredes,23,K,Portugal,Congo,3,0
+Besta Paredes,24,K,Uzbekistan,Colombia,0,2
+Besta Paredes,25,A,Checa,Sudafrica,1,1
+Besta Paredes,26,B,Suiza,Bosnia,2,1
+Besta Paredes,27,B,Canada,Catar,1,0
+Besta Paredes,28,A,Mexico,Corea,2,1
+Besta Paredes,29,C,Brasil,Haiti,4,1
+Besta Paredes,30,C,Escocia,Marruecos,1,2
+Besta Paredes,31,D,Turquia,Paraguay,2,2
+Besta Paredes,32,D,USA,Australia,2,1
+Besta Paredes,33,E,Alemania,Costa de Marfil,3,2
+Besta Paredes,34,E,Ecuador,Curazao,2,1
+Besta Paredes,35,F,Holanda,Suecia,3,2
+Besta Paredes,36,F,Tunez,Japon,2,3
+Besta Paredes,37,H,Uruguay,Cabo Verde,3,1
+Besta Paredes,38,H,España,Arabia Saudita,4,1
+Besta Paredes,39,G,Belgica,Iran,3,0
+Besta Paredes,40,G,Nueva Zelanda,Egipto,0,1
+Besta Paredes,41,I,Noruega,Senegal,1,3
+Besta Paredes,42,I,Francia,Irak,2,1
+Besta Paredes,43,J,Argentina,Austria,3,2
+Besta Paredes,44,J,Jordania,Argelia,1,1
+Besta Paredes,45,L,Inglaterra,Ghana,2,1
+Besta Paredes,46,L,Panama,Croacia,0,3
+Besta Paredes,47,K,Portugal,Uzbekistan,3,0
+Besta Paredes,48,K,Colombia,Congo,3,1
+Besta Paredes,49,C,Escocia,Brasil,2,4
+Besta Paredes,50,C,Marruecos,Haiti,3,1
+Besta Paredes,51,B,Suiza,Canada,2,2
+Besta Paredes,52,B,Bosnia,Catar,2,1
+Besta Paredes,53,A,Checa,Mexico,1,3
+Besta Paredes,54,A,Sudafrica,Corea,1,3
+Besta Paredes,55,E,Curazao,Costa de Marfil,0,2
+Besta Paredes,56,E,Ecuador,Alemania,1,3
+Besta Paredes,57,F,Japon,Suecia,1,2
+Besta Paredes,58,F,Tunez,Holanda,0,2
+Besta Paredes,59,D,Turquia,USA,2,3
+Besta Paredes,60,D,Paraguay,Australia,1,2
+Besta Paredes,61,I,Noruega,Francia,1,3
+Besta Paredes,62,I,Senegal,Irak,2,0
+Besta Paredes,63,G,Egipto,Iran,1,1
+Besta Paredes,64,G,Nueva Zelanda,Belgica,0,2
+Besta Paredes,65,H,Cabo verde,Arabia Saudi,0,1
+Besta Paredes,66,H,Uruguay,España,2,2
+Besta Paredes,67,L,Panama,Inglaterra,0,3
+Besta Paredes,68,L,Croacia,Ghana,3,2
+Besta Paredes,69,J,Argelia,Austria,2,2
+Besta Paredes,70,J,Jordania,Argentina,0,3
+Besta Paredes,71,K,Colombia,Portugal,1,3
+Besta Paredes,72,K,Congo,Uzbekistan,1,1
