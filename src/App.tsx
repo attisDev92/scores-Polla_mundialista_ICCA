@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   const { ranking, pronosticos, resultados, jugados, loading, error, lastUpdated } =
     usePollaData();
+  const partidosTotales = resultados.length;
 
   return (
     <div className="app">
@@ -37,7 +38,7 @@ function App() {
                 <span className="stat-label">Partidos jugados</span>
               </div>
               <div className="stat-item">
-                <span className="stat-num">{72 - jugados}</span>
+                <span className="stat-num">{partidosTotales - jugados}</span>
                 <span className="stat-label">Pendientes</span>
               </div>
               <div className="stat-item">
@@ -63,11 +64,11 @@ function App() {
         <span>
           Resultados via{' '}
           <a
-            href="https://github.com/openfootball/worldcup.json"
+            href="https://www.openligadb.de/"
             target="_blank"
             rel="noreferrer"
           >
-            OpenFootball
+            OpenLigaDB
           </a>
         </span>
       </footer>

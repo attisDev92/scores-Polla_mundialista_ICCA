@@ -39,11 +39,11 @@ export default function PlayerModal({ player, onClose }: Props) {
     };
   }, [onClose]);
 
-  const byGroup = player.pronosticos.reduce<Record<string, PronosticoConResultado[]>>(
+  const byGroup = player.pronosticos.reduce<Record<string, { order: number; items: PronosticoConResultado[] }>>(
     (acc, p) => {
-      const g = p.grupo || 'Otro';
-      if (!acc[g]) acc[g] = [];
-      acc[g].push(p);
+      const g = p.etapa === 'Grupos' ? `Grupo ${p.grupo || 'Otro'}` : (p.etapa || p.grupo || 'Otro');
+      if (!acc[g]) acc[g] = { order: p.etapaOrden, items: [] };
+      acc[g].items.push(p);
       return acc;
     },
     {}
@@ -72,18 +72,19 @@ export default function PlayerModal({ player, onClose }: Props) {
 
         <div className="modal-body">
           {Object.entries(byGroup)
-            .sort(([a], [b]) => a.localeCompare(b))
-            .map(([grupo, prods]) => (
-              <div key={grupo} className="group-section">
-                <h3 className="group-title">Grupo {grupo}</h3>
+            .map(([title, data]) => ({ title, ...data }))
+            .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title))
+            .map(({ title, items }) => (
+              <div key={title} className="group-section">
+                <h3 className="group-title">{title}</h3>
                 <div className="match-grid-header">
                   <span>Partido</span>
                   <span>Pronóstico</span>
                   <span>Real</span>
                   <span>Pts</span>
                 </div>
-                {prods.map((p) => (
-                  <div key={p.id_partido} className={`match-row ${puntosClass(p.puntos)}`}>
+                {items.map((p) => (
+                  <div key={`${p.etapaOrden}-${p.id_partido}`} className={`match-row ${puntosClass(p.puntos)}`}>
                     <span className="match-teams">
                       {p.equipo_a} <em>vs</em> {p.equipo_b}
                     </span>
@@ -91,7 +92,11 @@ export default function PlayerModal({ player, onClose }: Props) {
                       {p.goles_a} – {p.goles_b}
                     </span>
                     <span className="match-score real">
-                      {p.res?.jugado ? `${p.res.goles_a} – ${p.res.goles_b}` : '–'}
+                      {p.res?.jugado && p.res
+                        ? p.res.team1_code === p.equipo_a_code && p.res.team2_code === p.equipo_b_code
+                          ? `${p.res.goles_a} – ${p.res.goles_b}`
+                          : `${p.res.goles_b} – ${p.res.goles_a}`
+                        : '–'}
                     </span>
                     <span className={`match-pts ${puntosClass(p.puntos)}`}>
                       {puntosLabel(p.puntos)}

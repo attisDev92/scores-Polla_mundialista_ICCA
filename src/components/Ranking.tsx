@@ -26,16 +26,33 @@ export default function Ranking({ ranking, pronosticos, resultados }: Props) {
         nombre: selected,
         pronosticos: pronosticos
           .filter((p) => p.nombre === selected)
-          .sort((a, b) => a.id_partido - b.id_partido)
+          .sort((a, b) => a.etapaOrden - b.etapaOrden || a.id_partido - b.id_partido)
           .map((p) => {
-            const res = resultados.find((r) => r.id === p.id_partido);
+            const resDirecto = resultados.find(
+              (r) =>
+                r.etapaOrden === p.etapaOrden &&
+                r.team1_code === p.equipo_a_code &&
+                r.team2_code === p.equipo_b_code
+            );
+            const resInvertido = resultados.find(
+              (r) =>
+                r.etapaOrden === p.etapaOrden &&
+                r.team1_code === p.equipo_b_code &&
+                r.team2_code === p.equipo_a_code
+            );
+            const res = resDirecto ?? resInvertido;
+            const real = res
+              ? resDirecto
+                ? { goles_a: res.goles_a, goles_b: res.goles_b }
+                : { goles_a: res.goles_b, goles_b: res.goles_a }
+              : null;
             return {
               ...p,
               res,
-              puntos: res?.jugado
+              puntos: res?.jugado && real
                 ? calcularPuntos(
                     { goles_a: p.goles_a, goles_b: p.goles_b },
-                    { goles_a: res.goles_a, goles_b: res.goles_b }
+                    real
                   )
                 : null,
             };
@@ -65,6 +82,7 @@ export default function Ranking({ ranking, pronosticos, resultados }: Props) {
 
         {rankingFiltrado.map((jugador) => {
           const posReal = ranking.indexOf(jugador);
+          const medalIndex = posReal < 3 ? posReal : -1;
           return (
           <div
             key={jugador.nombre}
@@ -74,7 +92,7 @@ export default function Ranking({ ranking, pronosticos, resultados }: Props) {
             tabIndex={0}
             onKeyDown={(e) => e.key === 'Enter' && setSelected(jugador.nombre)}
           >
-            <span className="col-pos">{posReal < 3 ? MEDALS[posReal] : posReal + 1}</span>
+            <span className="col-pos">{posReal < 3 ? MEDALS[medalIndex] : posReal + 1}</span>
             <span className="col-nombre">{jugador.nombre}</span>
             <span className="col-pts points-badge">{jugador.puntos}</span>
             <span className="col-stat col-stat-value exactos">{jugador.exactos}</span>

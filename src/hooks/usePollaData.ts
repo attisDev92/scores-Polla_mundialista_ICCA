@@ -3,9 +3,60 @@ import Papa from 'papaparse';
 import type { Pronostico, ResultadoReal, PuntajeJugador, OLDBMatch } from '../types';
 import { calcularPuntos } from '../utils/scoring';
 
-// OpenLigaDB: one endpoint per Gruppenphase matchday (1, 2, 3)
-const OLDB = (round: number) =>
-  `https://api.openligadb.de/getmatchdata/wm26/2026/${round}`;
+type StageConfig = {
+  key: string;
+  label: string;
+  order: number;
+  csvCandidates: string[];
+  rounds: number[];
+};
+
+const STAGES: StageConfig[] = [
+  {
+    key: 'grupos',
+    label: 'Grupos',
+    order: 0,
+    csvCandidates: ['/pronosticos.csv', '/pronosticos_limpios.csv'],
+    rounds: [1, 2, 3],
+  },
+  {
+    key: '16avos',
+    label: '16avos de final',
+    order: 1,
+    csvCandidates: ["/pronosticos-16.csv", "/pronosticos-16'.csv"],
+    rounds: [4],
+  },
+  {
+    key: '8avos',
+    label: '8avos de final',
+    order: 2,
+    csvCandidates: ['/pronosticos-8.csv'],
+    rounds: [5],
+  },
+  {
+    key: '4tos',
+    label: '4tos de final',
+    order: 3,
+    csvCandidates: ['/pronosticos-4.csv'],
+    rounds: [6],
+  },
+  {
+    key: 'semis',
+    label: 'Semifinales',
+    order: 4,
+    csvCandidates: ['/pronosticos-semis.csv'],
+    rounds: [7],
+  },
+  {
+    key: 'final',
+    label: 'Final',
+    order: 5,
+    csvCandidates: ['/pronosticos-final.csv'],
+    rounds: [8],
+  },
+];
+
+const OLDB = (round: number) => `https://api.openligadb.de/getmatchdata/wm26/2026/${round}`;
 
 // Spanish team name (lowercase) → OpenLigaDB shortName (FIFA/UEFA code)
 const TEAM_CODE: Record<string, string> = {
@@ -46,6 +97,183 @@ function toCode(name: string): string {
   return TEAM_CODE[stripped] ?? stripped.toUpperCase().slice(0, 3);
 }
 
+async function fetchFirstExistingText(candidates: string[]): Promise<string | null> {
+  for (const candidate of candidates) {
+    const response = await fetch(candidate);
+    if (response.ok) return response.text();
+  }
+  return null;
+}
+
+async function fetchMatches(rounds: number[]): Promise<OLDBMatch[]> {
+  const responses = await Promise.all(
+    rounds.map(async (round) => {
+      const response = await fetch(OLDB(round));
+      if (!response.ok) return [] as OLDBMatch[];
+      return (await response.json()) as OLDBMatch[];
+    })
+  );
+  return responses.flat();
+}
+
+function getRegulationScore(match: OLDBMatch): { ga: number; gb: number } {
+  const hasExtraTimeOrPenalties = match.matchResults.some(
+    (result) => result.resultTypeID === 4 || result.resultTypeID === 5
+  );
+
+  if (!hasExtraTimeOrPenalties) {
+    const official = match.matchResults.find((result) => result.resultTypeID === 2);
+    return {
+      ga: official?.pointsTeam1 ?? 0,
+      gb: official?.pointsTeam2 ?? 0,
+    };
+  }
+
+  const team1Id = match.team1.teamId;
+  const team2Id = match.team2.teamId;
+  const afterExtraTime = match.matchResults.find((result) => result.resultTypeID === 4);
+  const regulationGoals = (match.goals ?? []).filter((goal) => {
+    const comment = goal.comment?.toLowerCase() ?? '';
+    return !comment.includes('elfmeterschie') && goal.matchMinute != null;
+  });
+  const usesContinuousExtraTimeClock = regulationGoals.some(
+    (goal) => (goal.matchMinute ?? 0) > 100
+  );
+
+  let ga = 0;
+  let gb = 0;
+  let hasClearExtraTimeGoal = false;
+
+  for (const goal of regulationGoals) {
+    const comment = goal.comment?.toLowerCase() ?? '';
+    const minute = goal.matchMinute ?? 0;
+
+    // Keep goals scored in added time of regular play (e.g. 90+4 => minute 94),
+    // but exclude extra-time goals and shootout events.
+    if (
+      minute > 90 &&
+      (usesContinuousExtraTimeClock || goal.isOvertime || comment.includes('verlangerung'))
+    ) {
+      hasClearExtraTimeGoal = true;
+      continue;
+    }
+
+    if (goal.scoringTeamId === team1Id) ga += 1;
+    if (goal.scoringTeamId === team2Id) gb += 1;
+  }
+
+  // OpenLigaDB sometimes omits minute details for added-time goals. If we do not see
+  // explicit extra-time goals, prefer the "after extra time" aggregate score.
+  if (!hasClearExtraTimeGoal && afterExtraTime) {
+    return {
+      ga: afterExtraTime.pointsTeam1,
+      gb: afterExtraTime.pointsTeam2,
+    };
+  }
+
+  return { ga, gb };
+}
+
+function buildLookup(matches: OLDBMatch[]) {
+  const lookup = new Map<string, { ga: number; gb: number; jugado: boolean; fecha: string }>();
+
+  for (const match of matches) {
+    const regulation = getRegulationScore(match);
+    const base = {
+      ga: regulation.ga,
+      gb: regulation.gb,
+      jugado: Boolean(match.matchIsFinished),
+      fecha: match.matchDateTimeUTC,
+    };
+
+    lookup.set(`${match.team1.shortName}__${match.team2.shortName}`, base);
+    lookup.set(`${match.team2.shortName}__${match.team1.shortName}`, {
+      ...base,
+      ga: base.gb,
+      gb: base.ga,
+    });
+  }
+
+  return lookup;
+}
+
+function parsePronosticos(csvText: string, stage: StageConfig): Pronostico[] {
+  const { data } = Papa.parse<Record<string, string>>(csvText, {
+    header: true,
+    skipEmptyLines: true,
+    dynamicTyping: false,
+    transformHeader: (header) => header.trim(),
+  });
+
+  return data
+    .filter((row) => row.nombre && row.nombre.trim() !== 'nombre')
+    .map((row) => ({
+      nombre: row.nombre.trim(),
+      id_partido: parseInt(row.id_partido, 10),
+      grupo: row.grupo?.trim() ?? stage.label,
+      etapa: row.etapa?.trim() ?? stage.label,
+      etapaOrden: stage.order,
+      equipo_a_code: toCode(row.equipo_a ?? ''),
+      equipo_b_code: toCode(row.equipo_b ?? ''),
+      equipo_a: row.equipo_a?.trim() ?? '',
+      equipo_b: row.equipo_b?.trim() ?? '',
+      goles_a: parseInt(row.goles_a, 10),
+      goles_b: parseInt(row.goles_b, 10),
+    }));
+}
+
+function buildResultados(
+  matches: OLDBMatch[],
+  stage: StageConfig,
+  lookup: Map<string, { ga: number; gb: number; jugado: boolean; fecha: string }>
+): ResultadoReal[] {
+  const orderedMatches = [...matches].sort((a, b) =>
+    a.matchDateTimeUTC.localeCompare(b.matchDateTimeUTC) || a.matchID - b.matchID
+  );
+
+  return orderedMatches.map((match, index) => {
+    const found = lookup.get(`${match.team1.shortName}__${match.team2.shortName}`) ?? null;
+
+    return {
+      id: index + 1,
+      etapa: stage.label,
+      etapaOrden: stage.order,
+      team1_code: match.team1.shortName,
+      team2_code: match.team2.shortName,
+      team1_original: match.team1.teamName,
+      team2_original: match.team2.teamName,
+      goles_a: found?.ga ?? 0,
+      goles_b: found?.gb ?? 0,
+      jugado: found?.jugado ?? false,
+      grupo: stage.label,
+      fecha: found?.fecha ?? match.matchDateTimeUTC,
+    };
+  });
+}
+
+function findResultado(
+  resultados: ResultadoReal[],
+  pronostico: Pronostico
+): { resultado: ResultadoReal | undefined; invertido: boolean } {
+  const directo = resultados.find(
+    (r) =>
+      r.etapaOrden === pronostico.etapaOrden &&
+      r.team1_code === pronostico.equipo_a_code &&
+      r.team2_code === pronostico.equipo_b_code
+  );
+
+  if (directo) return { resultado: directo, invertido: false };
+
+  const invertido = resultados.find(
+    (r) =>
+      r.etapaOrden === pronostico.etapaOrden &&
+      r.team1_code === pronostico.equipo_b_code &&
+      r.team2_code === pronostico.equipo_a_code
+  );
+
+  return { resultado: invertido, invertido: true };
+}
+
 export interface PollaData {
   pronosticos: Pronostico[];
   resultados: ResultadoReal[];
@@ -68,83 +296,32 @@ export function usePollaData(): PollaData {
   useEffect(() => {
     async function load() {
       try {
-        const [csvText, r1, r2, r3] = await Promise.all([
-          fetch('/pronosticos.csv').then((r) => {
-            if (!r.ok) throw new Error('No se pudo cargar pronosticos.csv');
-            return r.text();
-          }),
-          fetch(OLDB(1)).then((r) => r.json() as Promise<OLDBMatch[]>),
-          fetch(OLDB(2)).then((r) => r.json() as Promise<OLDBMatch[]>),
-          fetch(OLDB(3)).then((r) => r.json() as Promise<OLDBMatch[]>),
-        ]);
+        const stageData = await Promise.all(
+          STAGES.map(async (stage) => {
+            const [csvText, matches] = await Promise.all([
+              fetchFirstExistingText(stage.csvCandidates),
+              fetchMatches(stage.rounds),
+            ]);
 
-        // Parse CSV
-        const { data } = Papa.parse<Record<string, string>>(csvText, {
-          header: true,
-          skipEmptyLines: true,
-          dynamicTyping: false,
-          transformHeader: (h) => h.trim(),
-        });
+            const lookup = buildLookup(matches);
+            const pronosticosStage = csvText ? parsePronosticos(csvText, stage) : [];
+            const resultadosStage = buildResultados(matches, stage, lookup);
 
-        const pronosticosData: Pronostico[] = data
-          .filter((r) => r.nombre && r.nombre.trim() !== 'nombre')
-          .map((r) => ({
-            nombre: r.nombre.trim(),
-            id_partido: parseInt(r.id_partido, 10),
-            grupo: r.grupo?.trim() ?? '',
-            equipo_a: r.equipo_a?.trim() ?? '',
-            equipo_b: r.equipo_b?.trim() ?? '',
-            goles_a: parseInt(r.goles_a, 10),
-            goles_b: parseInt(r.goles_b, 10),
-          }));
+            return {
+              stage,
+              pronosticos: pronosticosStage,
+              resultados: resultadosStage,
+              jugados: resultadosStage.filter((result) => result.jugado).length,
+            };
+          })
+        );
+
+        const pronosticosData = stageData.flatMap((item) => item.pronosticos);
+        const resultadosData = stageData.flatMap((item) => item.resultados);
+
         setPronosticos(pronosticosData);
-
-        // Build lookup from OpenLigaDB: "CODE1__CODE2" → final score
-        const allMatches: OLDBMatch[] = [...r1, ...r2, ...r3];
-        const lookup = new Map<string, { ga: number; gb: number; jugado: boolean; fecha: string; round: string }>();
-        for (const m of allMatches) {
-          const ft = m.matchResults.find((r) => r.resultTypeID === 2);
-          const key = `${m.team1.shortName}__${m.team2.shortName}`;
-          lookup.set(key, {
-            ga: ft?.pointsTeam1 ?? 0,
-            gb: ft?.pointsTeam2 ?? 0,
-            jugado: m.matchIsFinished && !!ft,
-            fecha: m.matchDateTimeUTC,
-            round: m.group.groupName,
-          });
-        }
-
-        // Build unique match → id_partido map using first participant rows
-        const uniqueById = new Map<number, Pronostico>();
-        for (const p of pronosticosData) {
-          if (!uniqueById.has(p.id_partido)) uniqueById.set(p.id_partido, p);
-        }
-
-        const ress: ResultadoReal[] = [];
-        for (const [id, p] of uniqueById.entries()) {
-          const cA = toCode(p.equipo_a);
-          const cB = toCode(p.equipo_b);
-          const fwd = lookup.get(`${cA}__${cB}`);
-          const rev = lookup.get(`${cB}__${cA}`);
-          const found = fwd ?? (rev ? { ...rev, ga: rev.gb, gb: rev.ga } : null);
-
-          ress.push({
-            id,
-            team1_original: p.equipo_a,
-            team2_original: p.equipo_b,
-            goles_a: found?.ga ?? 0,
-            goles_b: found?.gb ?? 0,
-            jugado: found?.jugado ?? false,
-            grupo: p.grupo,
-            fecha: found?.fecha ?? '',
-            round: found?.round ?? '',
-          });
-        }
-        ress.sort((a, b) => a.id - b.id);
-        setResultados(ress);
-
-        const totalJugados = ress.filter((r) => r.jugado).length;
-        setJugados(totalJugados);
+        setResultados(resultadosData);
+        setJugados(resultadosData.filter((result) => result.jugado).length);
 
         // Calculate ranking
         const scores: Record<string, PuntajeJugador> = {};
@@ -152,12 +329,16 @@ export function usePollaData(): PollaData {
           if (!scores[p.nombre]) {
             scores[p.nombre] = { nombre: p.nombre, puntos: 0, aciertos: 0, exactos: 0, jugados: 0 };
           }
-          const res = ress.find((r) => r.id === p.id_partido);
+          const { resultado: res, invertido } = findResultado(resultadosData, p);
           if (!res?.jugado) continue;
+
+          const real = invertido
+            ? { goles_a: res.goles_b, goles_b: res.goles_a }
+            : { goles_a: res.goles_a, goles_b: res.goles_b };
 
           const pts = calcularPuntos(
             { goles_a: p.goles_a, goles_b: p.goles_b },
-            { goles_a: res.goles_a, goles_b: res.goles_b }
+            real
           );
           scores[p.nombre].jugados += 1;
           scores[p.nombre].puntos += pts;

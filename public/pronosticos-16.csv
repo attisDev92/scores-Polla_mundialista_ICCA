@@ -1,0 +1,337 @@
+nombre,id_partido,grupo,equipo_a,equipo_b,goles_a,goles_b
+Rafael Barriga,73,16avos,Sudafrica,Canada,1,2
+Rafael Barriga,74,16avos,Alemania,Paraguay,2,0
+Rafael Barriga,75,16avos,Holanda,Marruecos,1,2
+Rafael Barriga,76,16avos,Brasil,Japon,1,1
+Rafael Barriga,77,16avos,Francia,Suecia,3,1
+Rafael Barriga,78,16avos,Costa de Marfil,Noruega,2,2
+Rafael Barriga,79,16avos,Mexico,Ecuador,1,0
+Rafael Barriga,80,16avos,Inglaterra,Congo,3,1
+Rafael Barriga,81,16avos,USA,Bosnia,3,1
+Rafael Barriga,82,16avos,Belgica,Senegal,1,2
+Rafael Barriga,83,16avos,Portugal,Croacia,0,0
+Rafael Barriga,84,16avos,España,Austria,2,0
+Rafael Barriga,85,16avos,Suiza,Argelia,0,1
+Rafael Barriga,86,16avos,Argentina,Cabo Verde,3,0
+Rafael Barriga,87,16avos,Colombia,Ghana,2,0
+Rafael Barriga,88,16avos,Australia,Egipto,1,2
+Diego Chiri,73,16avos,Sudafrica,Canada,0,2
+Diego Chiri,74,16avos,Alemania,Paraguay,3,0
+Diego Chiri,75,16avos,Holanda,Marruecos,2,1
+Diego Chiri,76,16avos,Brasil,Japon,2,1
+Diego Chiri,77,16avos,Francia,Suecia,3,1
+Diego Chiri,78,16avos,Costa de Marfil,Noruega,0,1
+Diego Chiri,79,16avos,Mexico,Ecuador,1,2
+Diego Chiri,80,16avos,Inglaterra,Congo,1,0
+Diego Chiri,81,16avos,USA,Bosnia,2,0
+Diego Chiri,82,16avos,Belgica,Senegal,0,0
+Diego Chiri,83,16avos,Portugal,Croacia,1,0
+Diego Chiri,84,16avos,España,Austria,2,0
+Diego Chiri,85,16avos,Suiza,Argelia,1,1
+Diego Chiri,86,16avos,Argentina,Cabo Verde,2,0
+Diego Chiri,87,16avos,Colombia,Ghana,1,0
+Diego Chiri,88,16avos,Australia,Egipto,1,2
+Diego Guzman,73,16avos,Sudafrica,Canada,0,0
+Diego Guzman,74,16avos,Alemania,Paraguay,2,1
+Diego Guzman,75,16avos,Holanda,Marruecos,2,2
+Diego Guzman,76,16avos,Brasil,Japon,2,1
+Diego Guzman,77,16avos,Francia,Suecia,3,0
+Diego Guzman,78,16avos,Costa de Marfil,Noruega,1,1
+Diego Guzman,79,16avos,Mexico,Ecuador,1,3
+Diego Guzman,80,16avos,Inglaterra,Congo,2,0
+Diego Guzman,81,16avos,USA,Bosnia,3,1
+Diego Guzman,82,16avos,Belgica,Senegal,1,0
+Diego Guzman,83,16avos,Portugal,Croacia,2,1
+Diego Guzman,84,16avos,España,Austria,3,0
+Diego Guzman,85,16avos,Suiza,Argelia,2,1
+Diego Guzman,86,16avos,Argentina,Cabo Verde,3,0
+Diego Guzman,87,16avos,Colombia,Ghana,2,1
+Diego Guzman,88,16avos,Australia,Egipto,2,2
+MaJo Requelme,73,16avos,Sudafrica,Canada,1,2
+MaJo Requelme,74,16avos,Alemania,Paraguay,3,0
+MaJo Requelme,75,16avos,Holanda,Marruecos,2,1
+MaJo Requelme,76,16avos,Brasil,Japon,1,1
+MaJo Requelme,77,16avos,Francia,Suecia,3,0
+MaJo Requelme,78,16avos,Costa de Marfil,Noruega,1,2
+MaJo Requelme,79,16avos,Mexico,Ecuador,1,2
+MaJo Requelme,80,16avos,Inglaterra,Congo,2,0
+MaJo Requelme,81,16avos,USA,Bosnia,2,0
+MaJo Requelme,82,16avos,Belgica,Senegal,1,1
+MaJo Requelme,83,16avos,Portugal,Croacia,1,1
+MaJo Requelme,84,16avos,España,Austria,2,0
+MaJo Requelme,85,16avos,Suiza,Argelia,1,0
+MaJo Requelme,86,16avos,Argentina,Cabo Verde,2,0
+MaJo Requelme,87,16avos,Colombia,Ghana,1,0
+MaJo Requelme,88,16avos,Australia,Egipto,0,1
+Sol Yepez,73,16avos,Sudafrica,Canada,2,1
+Sol Yepez,74,16avos,Alemania,Paraguay,2,0
+Sol Yepez,75,16avos,Holanda,Marruecos,2,0
+Sol Yepez,76,16avos,Brasil,Japon,2,1
+Sol Yepez,77,16avos,Francia,Suecia,2,1
+Sol Yepez,78,16avos,Costa de Marfil,Noruega,2,1
+Sol Yepez,79,16avos,Mexico,Ecuador,1,2
+Sol Yepez,80,16avos,Inglaterra,Congo,3,0
+Sol Yepez,81,16avos,USA,Bosnia,2,0
+Sol Yepez,82,16avos,Belgica,Senegal,0,1
+Sol Yepez,83,16avos,Portugal,Croacia,2,0
+Sol Yepez,84,16avos,España,Austria,1,1
+Sol Yepez,85,16avos,Suiza,Argelia,2,1
+Sol Yepez,86,16avos,Argentina,Cabo Verde,3,1
+Sol Yepez,87,16avos,Colombia,Ghana,2,1
+Sol Yepez,88,16avos,Australia,Egipto,2,0
+Melissa Salazar,73,16avos,Sudafrica,Canada,2,0
+Melissa Salazar,74,16avos,Alemania,Paraguay,4,1
+Melissa Salazar,75,16avos,Holanda,Marruecos,2,3
+Melissa Salazar,76,16avos,Brasil,Japon,2,1
+Melissa Salazar,77,16avos,Francia,Suecia,2,0
+Melissa Salazar,78,16avos,Costa de Marfil,Noruega,2,2
+Melissa Salazar,79,16avos,Mexico,Ecuador,2,2
+Melissa Salazar,80,16avos,Inglaterra,Congo,1,2
+Melissa Salazar,81,16avos,USA,Bosnia,0,2
+Melissa Salazar,82,16avos,Belgica,Senegal,0,2
+Melissa Salazar,83,16avos,Portugal,Croacia,2,1
+Melissa Salazar,84,16avos,España,Austria,5,2
+Melissa Salazar,85,16avos,Suiza,Argelia,1,0
+Melissa Salazar,86,16avos,Argentina,Cabo Verde,0,1
+Melissa Salazar,87,16avos,Colombia,Ghana,1,0
+Melissa Salazar,88,16avos,Australia,Egipto,1,1
+Vinicio Benalcázar,73,16avos,Sudafrica,Canada,1,3
+Vinicio Benalcázar,74,16avos,Alemania,Paraguay,3,1
+Vinicio Benalcázar,75,16avos,Holanda,Marruecos,2,2
+Vinicio Benalcázar,76,16avos,Brasil,Japon,2,2
+Vinicio Benalcázar,77,16avos,Francia,Suecia,3,0
+Vinicio Benalcázar,78,16avos,Costa de Marfil,Noruega,2,3
+Vinicio Benalcázar,79,16avos,Mexico,Ecuador,2,1
+Vinicio Benalcázar,80,16avos,Inglaterra,Congo,2,1
+Vinicio Benalcázar,81,16avos,USA,Bosnia,3,0
+Vinicio Benalcázar,82,16avos,Belgica,Senegal,1,1
+Vinicio Benalcázar,83,16avos,Portugal,Croacia,2,1
+Vinicio Benalcázar,84,16avos,España,Austria,2,1
+Vinicio Benalcázar,85,16avos,Suiza,Argelia,3,1
+Vinicio Benalcázar,86,16avos,Argentina,Cabo Verde,2,0
+Vinicio Benalcázar,87,16avos,Colombia,Ghana,3,1
+Vinicio Benalcázar,88,16avos,Australia,Egipto,1,2
+Juan Elías Bustillos,73,16avos,Sudafrica,Canada,1,2
+Juan Elías Bustillos,74,16avos,Alemania,Paraguay,1,0
+Juan Elías Bustillos,75,16avos,Holanda,Marruecos,2,1
+Juan Elías Bustillos,76,16avos,Brasil,Japon,1,0
+Juan Elías Bustillos,77,16avos,Francia,Suecia,3,0
+Juan Elías Bustillos,78,16avos,Costa de Marfil,Noruega,2,1
+Juan Elías Bustillos,79,16avos,Mexico,Ecuador,1,2
+Juan Elías Bustillos,80,16avos,Inglaterra,Congo,3,0
+Juan Elías Bustillos,81,16avos,USA,Bosnia,2,1
+Juan Elías Bustillos,82,16avos,Belgica,Senegal,2,0
+Juan Elías Bustillos,83,16avos,Portugal,Croacia,1,2
+Juan Elías Bustillos,84,16avos,España,Austria,3,0
+Juan Elías Bustillos,85,16avos,Suiza,Argelia,1,1
+Juan Elías Bustillos,86,16avos,Argentina,Cabo Verde,3,1
+Juan Elías Bustillos,87,16avos,Colombia,Ghana,2,0
+Juan Elías Bustillos,88,16avos,Australia,Egipto,1,0
+Greta Márquez,73,16avos,Sudafrica,Canada,0,0
+Greta Márquez,74,16avos,Alemania,Paraguay,2,0
+Greta Márquez,75,16avos,Holanda,Marruecos,1,1
+Greta Márquez,76,16avos,Brasil,Japon,2,1
+Greta Márquez,77,16avos,Francia,Suecia,3,0
+Greta Márquez,78,16avos,Costa de Marfil,Noruega,1,2
+Greta Márquez,79,16avos,Mexico,Ecuador,0,1
+Greta Márquez,80,16avos,Inglaterra,Congo,2,1
+Greta Márquez,81,16avos,USA,Bosnia,2,0
+Greta Márquez,82,16avos,Belgica,Senegal,1,1
+Greta Márquez,83,16avos,Portugal,Croacia,1,1
+Greta Márquez,84,16avos,España,Austria,1,1
+Greta Márquez,85,16avos,Suiza,Argelia,1,0
+Greta Márquez,86,16avos,Argentina,Cabo Verde,2,0
+Greta Márquez,87,16avos,Colombia,Ghana,1,1
+Greta Márquez,88,16avos,Australia,Egipto,1,0
+Diego Cruz,73,16avos,Sudafrica,Canada,0,0
+Diego Cruz,74,16avos,Alemania,Paraguay,2,0
+Diego Cruz,75,16avos,Holanda,Marruecos,1,2
+Diego Cruz,76,16avos,Brasil,Japon,2,1
+Diego Cruz,77,16avos,Francia,Suecia,3,1
+Diego Cruz,78,16avos,Costa de Marfil,Noruega,0,2
+Diego Cruz,79,16avos,Mexico,Ecuador,1,1
+Diego Cruz,80,16avos,Inglaterra,Congo,2,0
+Diego Cruz,81,16avos,USA,Bosnia,2,0
+Diego Cruz,82,16avos,Belgica,Senegal,1,1
+Diego Cruz,83,16avos,Portugal,Croacia,2,1
+Diego Cruz,84,16avos,España,Austria,2,0
+Diego Cruz,85,16avos,Suiza,Argelia,2,1
+Diego Cruz,86,16avos,Argentina,Cabo Verde,3,0
+Diego Cruz,87,16avos,Colombia,Ghana,2,1
+Diego Cruz,88,16avos,Australia,Egipto,1,1
+María Elena Quimbiamba,73,16avos,Sudafrica,Canada,1,2
+María Elena Quimbiamba,74,16avos,Alemania,Paraguay,2,0
+María Elena Quimbiamba,75,16avos,Holanda,Marruecos,1,0
+María Elena Quimbiamba,76,16avos,Brasil,Japon,2,2
+María Elena Quimbiamba,77,16avos,Francia,Suecia,4,0
+María Elena Quimbiamba,78,16avos,Costa de Marfil,Noruega,1,2
+María Elena Quimbiamba,79,16avos,Mexico,Ecuador,0,1
+María Elena Quimbiamba,80,16avos,Inglaterra,Congo,2,1
+María Elena Quimbiamba,81,16avos,USA,Bosnia,3,0
+María Elena Quimbiamba,82,16avos,Belgica,Senegal,0,1
+María Elena Quimbiamba,83,16avos,Portugal,Croacia,2,1
+María Elena Quimbiamba,84,16avos,España,Austria,2,0
+María Elena Quimbiamba,85,16avos,Suiza,Argelia,1,0
+María Elena Quimbiamba,86,16avos,Argentina,Cabo Verde,3,1
+María Elena Quimbiamba,87,16avos,Colombia,Ghana,2,1
+María Elena Quimbiamba,88,16avos,Australia,Egipto,1,1
+Andres Granda,73,16avos,Sudafrica,Canada,0,1
+Andres Granda,74,16avos,Alemania,Paraguay,2,1
+Andres Granda,75,16avos,Holanda,Marruecos,2,1
+Andres Granda,76,16avos,Brasil,Japon,3,1
+Andres Granda,77,16avos,Francia,Suecia,2,0
+Andres Granda,78,16avos,Costa de Marfil,Noruega,1,2
+Andres Granda,79,16avos,Mexico,Ecuador,1,2
+Andres Granda,80,16avos,Inglaterra,Congo,3,0
+Andres Granda,81,16avos,USA,Bosnia,2,0
+Andres Granda,82,16avos,Belgica,Senegal,2,1
+Andres Granda,83,16avos,Portugal,Croacia,2,1
+Andres Granda,84,16avos,España,Austria,2,1
+Andres Granda,85,16avos,Suiza,Argelia,2,0
+Andres Granda,86,16avos,Argentina,Cabo Verde,3,0
+Andres Granda,87,16avos,Colombia,Ghana,2,1
+Andres Granda,88,16avos,Australia,Egipto,1,2
+CHRISTIAN CHICAIZA,73,16avos,Sudafrica,Canada,0,2
+CHRISTIAN CHICAIZA,74,16avos,Alemania,Paraguay,3,0
+CHRISTIAN CHICAIZA,75,16avos,Holanda,Marruecos,2,1
+CHRISTIAN CHICAIZA,76,16avos,Brasil,Japon,3,1
+CHRISTIAN CHICAIZA,77,16avos,Francia,Suecia,3,0
+CHRISTIAN CHICAIZA,78,16avos,Costa de Marfil,Noruega,0,2
+CHRISTIAN CHICAIZA,79,16avos,Mexico,Ecuador,1,2
+CHRISTIAN CHICAIZA,80,16avos,Inglaterra,Congo,2,0
+CHRISTIAN CHICAIZA,81,16avos,USA,Bosnia,2,0
+CHRISTIAN CHICAIZA,82,16avos,Belgica,Senegal,1,2
+CHRISTIAN CHICAIZA,83,16avos,Portugal,Croacia,1,1
+CHRISTIAN CHICAIZA,84,16avos,España,Austria,2,0
+CHRISTIAN CHICAIZA,85,16avos,Suiza,Argelia,2,0
+CHRISTIAN CHICAIZA,86,16avos,Argentina,Cabo Verde,3,0
+CHRISTIAN CHICAIZA,87,16avos,Colombia,Ghana,2,1
+CHRISTIAN CHICAIZA,88,16avos,Australia,Egipto,0,1
+Jorge Benitez,73,16avos,Sudafrica,Canada,0,0
+Jorge Benitez,74,16avos,Alemania,Paraguay,3,1
+Jorge Benitez,75,16avos,Holanda,Marruecos,1,1
+Jorge Benitez,76,16avos,Brasil,Japon,2,1
+Jorge Benitez,77,16avos,Francia,Suecia,3,1
+Jorge Benitez,78,16avos,Costa de Marfil,Noruega,1,1
+Jorge Benitez,79,16avos,Mexico,Ecuador,1,2
+Jorge Benitez,80,16avos,Inglaterra,Congo,2,1
+Jorge Benitez,81,16avos,USA,Bosnia,2,1
+Jorge Benitez,82,16avos,Belgica,Senegal,0,2
+Jorge Benitez,83,16avos,Portugal,Croacia,1,1
+Jorge Benitez,84,16avos,España,Austria,3,1
+Jorge Benitez,85,16avos,Suiza,Argelia,1,1
+Jorge Benitez,86,16avos,Argentina,Cabo Verde,3,1
+Jorge Benitez,87,16avos,Colombia,Ghana,2,1
+Jorge Benitez,88,16avos,Australia,Egipto,1,2
+Christian Burnham,73,16avos,Sudafrica,Canada,0,2
+Christian Burnham,74,16avos,Alemania,Paraguay,3,0
+Christian Burnham,75,16avos,Holanda,Marruecos,2,1
+Christian Burnham,76,16avos,Brasil,Japon,2,1
+Christian Burnham,77,16avos,Francia,Suecia,3,1
+Christian Burnham,78,16avos,Costa de Marfil,Noruega,1,2
+Christian Burnham,79,16avos,Mexico,Ecuador,0,1
+Christian Burnham,80,16avos,Inglaterra,Congo,3,1
+Christian Burnham,81,16avos,USA,Bosnia,0,0
+Christian Burnham,82,16avos,Belgica,Senegal,1,1
+Christian Burnham,83,16avos,Portugal,Croacia,2,1
+Christian Burnham,84,16avos,España,Austria,2,0
+Christian Burnham,85,16avos,Suiza,Argelia,2,0
+Christian Burnham,86,16avos,Argentina,Cabo Verde,4,0
+Christian Burnham,87,16avos,Colombia,Ghana,2,0
+Christian Burnham,88,16avos,Australia,Egipto,1,2
+Mauricio Cadena,73,16avos,Sudafrica,Canada,0,2
+Mauricio Cadena,74,16avos,Alemania,Paraguay,2,1
+Mauricio Cadena,75,16avos,Holanda,Marruecos,4,1
+Mauricio Cadena,76,16avos,Brasil,Japon,2,1
+Mauricio Cadena,77,16avos,Francia,Suecia,3,1
+Mauricio Cadena,78,16avos,Costa de Marfil,Noruega,0,2
+Mauricio Cadena,79,16avos,Mexico,Ecuador,1,2
+Mauricio Cadena,80,16avos,Inglaterra,Congo,3,1
+Mauricio Cadena,81,16avos,USA,Bosnia,0,2
+Mauricio Cadena,82,16avos,Belgica,Senegal,2,1
+Mauricio Cadena,83,16avos,Portugal,Croacia,2,0
+Mauricio Cadena,84,16avos,España,Austria,3,1
+Mauricio Cadena,85,16avos,Suiza,Argelia,1,0
+Mauricio Cadena,86,16avos,Argentina,Cabo Verde,4,0
+Mauricio Cadena,87,16avos,Colombia,Ghana,1,1
+Mauricio Cadena,88,16avos,Australia,Egipto,1,2
+ALLISON QUINTANILLA,73,16avos,Sudafrica,Canada,0,1
+ALLISON QUINTANILLA,74,16avos,Alemania,Paraguay,2,0
+ALLISON QUINTANILLA,75,16avos,Holanda,Marruecos,2,1
+ALLISON QUINTANILLA,76,16avos,Brasil,Japon,3,1
+ALLISON QUINTANILLA,77,16avos,Francia,Suecia,3,0
+ALLISON QUINTANILLA,78,16avos,Costa de Marfil,Noruega,1,2
+ALLISON QUINTANILLA,79,16avos,Mexico,Ecuador,1,1
+ALLISON QUINTANILLA,80,16avos,Inglaterra,Congo,3,0
+ALLISON QUINTANILLA,81,16avos,USA,Bosnia,2,0
+ALLISON QUINTANILLA,82,16avos,Belgica,Senegal,2,1
+ALLISON QUINTANILLA,83,16avos,Portugal,Croacia,2,1
+ALLISON QUINTANILLA,84,16avos,España,Austria,2,0
+ALLISON QUINTANILLA,85,16avos,Suiza,Argelia,1,0
+ALLISON QUINTANILLA,86,16avos,Argentina,Cabo Verde,3,0
+ALLISON QUINTANILLA,87,16avos,Colombia,Ghana,2,1
+ALLISON QUINTANILLA,88,16avos,Australia,Egipto,0,1
+Besta Paredes,73,16avos,Sudafrica,Canada,0,0
+Besta Paredes,74,16avos,Alemania,Paraguay,3,1
+Besta Paredes,75,16avos,Holanda,Marruecos,2,1
+Besta Paredes,76,16avos,Brasil,Japon,3,1
+Besta Paredes,77,16avos,Francia,Suecia,0,0
+Besta Paredes,78,16avos,Costa de Marfil,Noruega,0,2
+Besta Paredes,79,16avos,Mexico,Ecuador,1,2
+Besta Paredes,80,16avos,Inglaterra,Congo,3,1
+Besta Paredes,81,16avos,USA,Bosnia,2,0
+Besta Paredes,82,16avos,Belgica,Senegal,2,1
+Besta Paredes,83,16avos,Portugal,Croacia,1,1
+Besta Paredes,84,16avos,España,Austria,2,0
+Besta Paredes,85,16avos,Suiza,Argelia,3,0
+Besta Paredes,86,16avos,Argentina,Cabo Verde,3,0
+Besta Paredes,87,16avos,Colombia,Ghana,3,0
+Besta Paredes,88,16avos,Australia,Egipto,2,2
+Gabriel Freire,73,16avos,Sudafrica,Canada,2,0
+Gabriel Freire,74,16avos,Alemania,Paraguay,2,0
+Gabriel Freire,75,16avos,Holanda,Marruecos,2,1
+Gabriel Freire,76,16avos,Brasil,Japon,2,1
+Gabriel Freire,77,16avos,Francia,Suecia,2,0
+Gabriel Freire,78,16avos,Costa de Marfil,Noruega,0,1
+Gabriel Freire,79,16avos,Mexico,Ecuador,0,1
+Gabriel Freire,80,16avos,Inglaterra,Congo,2,1
+Gabriel Freire,81,16avos,USA,Bosnia,2,0
+Gabriel Freire,82,16avos,Belgica,Senegal,0,0
+Gabriel Freire,83,16avos,Portugal,Croacia,1,0
+Gabriel Freire,84,16avos,España,Austria,2,0
+Gabriel Freire,85,16avos,Suiza,Argelia,1,0
+Gabriel Freire,86,16avos,Argentina,Cabo Verde,2,0
+Gabriel Freire,87,16avos,Colombia,Ghana,2,1
+Gabriel Freire,88,16avos,Australia,Egipto,0,1
+Emilia Padilla,73,16avos,Sudafrica,Canada,0,0
+Emilia Padilla,74,16avos,Alemania,Paraguay,0,0
+Emilia Padilla,75,16avos,Holanda,Marruecos,1,2
+Emilia Padilla,76,16avos,Brasil,Japon,0,0
+Emilia Padilla,77,16avos,Francia,Suecia,3,1
+Emilia Padilla,78,16avos,Costa de Marfil,Noruega,2,1
+Emilia Padilla,79,16avos,Mexico,Ecuador,1,2
+Emilia Padilla,80,16avos,Inglaterra,Congo,2,1
+Emilia Padilla,81,16avos,USA,Bosnia,3,1
+Emilia Padilla,82,16avos,Belgica,Senegal,2,1
+Emilia Padilla,83,16avos,Portugal,Croacia,1,0
+Emilia Padilla,84,16avos,España,Austria,2,1
+Emilia Padilla,85,16avos,Suiza,Argelia,1,0
+Emilia Padilla,86,16avos,Argentina,Cabo Verde,2,1
+Emilia Padilla,87,16avos,Colombia,Ghana,2,1
+Emilia Padilla,88,16avos,Australia,Egipto,2,1
+Shirley Vallejo,73,16avos,Sudafrica,Canada,0,0
+Shirley Vallejo,74,16avos,Alemania,Paraguay,2,1
+Shirley Vallejo,75,16avos,Holanda,Marruecos,1,1
+Shirley Vallejo,76,16avos,Brasil,Japon,0,0
+Shirley Vallejo,77,16avos,Francia,Suecia,2,1
+Shirley Vallejo,78,16avos,Costa de Marfil,Noruega,0,1
+Shirley Vallejo,79,16avos,Mexico,Ecuador,1,1
+Shirley Vallejo,80,16avos,Inglaterra,Congo,0,0
+Shirley Vallejo,81,16avos,USA,Bosnia,2,1
+Shirley Vallejo,82,16avos,Belgica,Senegal,2,2
+Shirley Vallejo,83,16avos,Portugal,Croacia,2,1
+Shirley Vallejo,84,16avos,España,Austria,2,0
+Shirley Vallejo,85,16avos,Suiza,Argelia,1,0
+Shirley Vallejo,86,16avos,Argentina,Cabo Verde,3,1
+Shirley Vallejo,87,16avos,Colombia,Ghana,2,0
+Shirley Vallejo,88,16avos,Australia,Egipto,1,1
