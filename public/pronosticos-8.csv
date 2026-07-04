@@ -1,0 +1,153 @@
+﻿nombre,id_partido,grupo,equipo_a,equipo_b,goles_a,goles_b
+Emilia Padilla,89,8avos,Canada,Marruecos,1,2
+Emilia Padilla,90,8avos,Paraguay,Francia,1,3
+Emilia Padilla,91,8avos,Brasil,Noruega,1,2
+Emilia Padilla,92,8avos,México,Inglaterra,0,2
+Emilia Padilla,93,8avos,Portugal,España,2,2
+Emilia Padilla,94,8avos,USA,Belgica,2,1
+Emilia Padilla,95,8avos,Argentina,Egipto,2,2
+Emilia Padilla,96,8avos,Suiza,Colombia,1,2
+Shirley Vallejo,89,8avos,Canada,Marruecos,1,0
+Shirley Vallejo,90,8avos,Paraguay,Francia,0,2
+Shirley Vallejo,91,8avos,Brasil,Noruega,1,1
+Shirley Vallejo,92,8avos,México,Inglaterra,2,1
+Shirley Vallejo,93,8avos,Portugal,España,1,1
+Shirley Vallejo,94,8avos,USA,Belgica,0,2
+Shirley Vallejo,95,8avos,Argentina,Egipto,2,0
+Shirley Vallejo,96,8avos,Suiza,Colombia,1,2
+Diego Chiri,89,8avos,Canada,Marruecos,1,2
+Diego Chiri,90,8avos,Paraguay,Francia,0,2
+Diego Chiri,91,8avos,Brasil,Noruega,0,1
+Diego Chiri,92,8avos,México,Inglaterra,2,3
+Diego Chiri,93,8avos,Portugal,España,1,1
+Diego Chiri,94,8avos,USA,Belgica,0,0
+Diego Chiri,95,8avos,Argentina,Egipto,2,1
+Diego Chiri,96,8avos,Suiza,Colombia,0,1
+Betsabe Paredes,89,8avos,Canada,Marruecos,2,0
+Betsabe Paredes,90,8avos,Paraguay,Francia,2,1
+Betsabe Paredes,91,8avos,Brasil,Noruega,3,1
+Betsabe Paredes,92,8avos,México,Inglaterra,1,3
+Betsabe Paredes,93,8avos,Portugal,España,1,2
+Betsabe Paredes,94,8avos,USA,Belgica,3,1
+Betsabe Paredes,95,8avos,Argentina,Egipto,2,0
+Betsabe Paredes,96,8avos,Suiza,Colombia,0,1
+Rafael Barriga,89,8avos,Canada,Marruecos,0,2
+Rafael Barriga,90,8avos,Paraguay,Francia,0,3
+Rafael Barriga,91,8avos,Brasil,Noruega,1,1
+Rafael Barriga,92,8avos,México,Inglaterra,0,2
+Rafael Barriga,93,8avos,Portugal,España,1,3
+Rafael Barriga,94,8avos,USA,Belgica,1,1
+Rafael Barriga,95,8avos,Argentina,Egipto,2,0
+Rafael Barriga,96,8avos,Suiza,Colombia,0,1
+MaJo Requelme,89,8avos,Canada,Marruecos,1,2
+MaJo Requelme,90,8avos,Paraguay,Francia,1,3
+MaJo Requelme,91,8avos,Brasil,Noruega,1,1
+MaJo Requelme,92,8avos,México,Inglaterra,1,1
+MaJo Requelme,93,8avos,Portugal,España,1,1
+MaJo Requelme,94,8avos,USA,Belgica,1,1
+MaJo Requelme,95,8avos,Argentina,Egipto,1,0
+MaJo Requelme,96,8avos,Suiza,Colombia,0,0
+CHRISTIAN CHICAIZA,89,8avos,Canada,Marruecos,1,2
+CHRISTIAN CHICAIZA,90,8avos,Paraguay,Francia,1,3
+CHRISTIAN CHICAIZA,91,8avos,Brasil,Noruega,2,1
+CHRISTIAN CHICAIZA,92,8avos,México,Inglaterra,0,2
+CHRISTIAN CHICAIZA,93,8avos,Portugal,España,0,2
+CHRISTIAN CHICAIZA,94,8avos,USA,Belgica,2,1
+CHRISTIAN CHICAIZA,95,8avos,Argentina,Egipto,2,0
+CHRISTIAN CHICAIZA,96,8avos,Suiza,Colombia,0,1
+Andres Granda,89,8avos,Canada,Marruecos,1,2
+Andres Granda,90,8avos,Paraguay,Francia,0,3
+Andres Granda,91,8avos,Brasil,Noruega,1,1
+Andres Granda,92,8avos,México,Inglaterra,1,2
+Andres Granda,93,8avos,Portugal,España,1,2
+Andres Granda,94,8avos,USA,Belgica,2,2
+Andres Granda,95,8avos,Argentina,Egipto,2,1
+Andres Granda,96,8avos,Suiza,Colombia,0,1
+Greta Márquez,89,8avos,Canada,Marruecos,0,1
+Greta Márquez,90,8avos,Paraguay,Francia,1,2
+Greta Márquez,91,8avos,Brasil,Noruega,1,1
+Greta Márquez,92,8avos,México,Inglaterra,1,2
+Greta Márquez,93,8avos,Portugal,España,1,1
+Greta Márquez,94,8avos,USA,Belgica,2,2
+Greta Márquez,95,8avos,Argentina,Egipto,1,0
+Greta Márquez,96,8avos,Suiza,Colombia,2,1
+Juan Elías Bustillos,89,8avos,Canada,Marruecos,0,2
+Juan Elías Bustillos,90,8avos,Paraguay,Francia,0,1
+Juan Elías Bustillos,91,8avos,Brasil,Noruega,2,1
+Juan Elías Bustillos,92,8avos,México,Inglaterra,1,2
+Juan Elías Bustillos,93,8avos,Portugal,España,1,3
+Juan Elías Bustillos,94,8avos,USA,Belgica,1,0
+Juan Elías Bustillos,95,8avos,Argentina,Egipto,2,0
+Juan Elías Bustillos,96,8avos,Suiza,Colombia,0,2
+María Elena Quimbiamba,89,8avos,Canada,Marruecos,2,2
+María Elena Quimbiamba,90,8avos,Paraguay,Francia,0,3
+María Elena Quimbiamba,91,8avos,Brasil,Noruega,1,2
+María Elena Quimbiamba,92,8avos,México,Inglaterra,1,2
+María Elena Quimbiamba,93,8avos,Portugal,España,2,2
+María Elena Quimbiamba,94,8avos,USA,Belgica,1,1
+María Elena Quimbiamba,95,8avos,Argentina,Egipto,2,1
+María Elena Quimbiamba,96,8avos,Suiza,Colombia,0,1
+Mauricio Cadena,89,8avos,Canada,Marruecos,2,1
+Mauricio Cadena,90,8avos,Paraguay,Francia,1,3
+Mauricio Cadena,91,8avos,Brasil,Noruega,3,2
+Mauricio Cadena,92,8avos,México,Inglaterra,1,4
+Mauricio Cadena,93,8avos,Portugal,España,2,1
+Mauricio Cadena,94,8avos,USA,Belgica,1,2
+Mauricio Cadena,95,8avos,Argentina,Egipto,2,1
+Mauricio Cadena,96,8avos,Suiza,Colombia,0,1
+Vinicio Benalcázar,89,8avos,Canada,Marruecos,1,2
+Vinicio Benalcázar,90,8avos,Paraguay,Francia,1,3
+Vinicio Benalcázar,91,8avos,Brasil,Noruega,2,2
+Vinicio Benalcázar,92,8avos,México,Inglaterra,1,2
+Vinicio Benalcázar,93,8avos,Portugal,España,1,3
+Vinicio Benalcázar,94,8avos,USA,Belgica,2,1
+Vinicio Benalcázar,95,8avos,Argentina,Egipto,2,0
+Vinicio Benalcázar,96,8avos,Suiza,Colombia,0,2
+ALLISON QUINTANILLA,89,8avos,Canada,Marruecos,1,2
+ALLISON QUINTANILLA,90,8avos,Paraguay,Francia,3,1
+ALLISON QUINTANILLA,91,8avos,Brasil,Noruega,2,1
+ALLISON QUINTANILLA,92,8avos,México,Inglaterra,1,2
+ALLISON QUINTANILLA,93,8avos,Portugal,España,1,2
+ALLISON QUINTANILLA,94,8avos,USA,Belgica,1,1
+ALLISON QUINTANILLA,95,8avos,Argentina,Egipto,2,0
+ALLISON QUINTANILLA,96,8avos,Suiza,Colombia,1,2
+Christian Burnham,89,8avos,Canada,Marruecos,0,2
+Christian Burnham,90,8avos,Paraguay,Francia,0,3
+Christian Burnham,91,8avos,Brasil,Noruega,1,1
+Christian Burnham,92,8avos,México,Inglaterra,1,2
+Christian Burnham,93,8avos,Portugal,España,1,1
+Christian Burnham,94,8avos,USA,Belgica,1,2
+Christian Burnham,95,8avos,Argentina,Egipto,3,1
+Christian Burnham,96,8avos,Suiza,Colombia,1,2
+Gabriel Freire,89,8avos,Canada,Marruecos,0,1
+Gabriel Freire,90,8avos,Paraguay,Francia,0,3
+Gabriel Freire,91,8avos,Brasil,Noruega,1,0
+Gabriel Freire,92,8avos,México,Inglaterra,0,2
+Gabriel Freire,93,8avos,Portugal,España,1,1
+Gabriel Freire,94,8avos,USA,Belgica,1,2
+Gabriel Freire,95,8avos,Argentina,Egipto,1,0
+Gabriel Freire,96,8avos,Suiza,Colombia,0,1
+Diego Cruz,89,8avos,Canada,Marruecos,1,2
+Diego Cruz,90,8avos,Paraguay,Francia,1,3
+Diego Cruz,91,8avos,Brasil,Noruega,2,2
+Diego Cruz,92,8avos,México,Inglaterra,1,2
+Diego Cruz,93,8avos,Portugal,España,2,2
+Diego Cruz,94,8avos,USA,Belgica,1,1
+Diego Cruz,95,8avos,Argentina,Egipto,2,2
+Diego Cruz,96,8avos,Suiza,Colombia,1,1
+Sol Yepez,89,8avos,Canada,Marruecos,1,2
+Sol Yepez,90,8avos,Paraguay,Francia,0,2
+Sol Yepez,91,8avos,Brasil,Noruega,2,1
+Sol Yepez,92,8avos,México,Inglaterra,0,3
+Sol Yepez,93,8avos,Portugal,España,1,0
+Sol Yepez,94,8avos,USA,Belgica,1,0
+Sol Yepez,95,8avos,Argentina,Egipto,3,0
+Sol Yepez,96,8avos,Suiza,Colombia,2,1
+Jorge Benitez,89,8avos,Canada,Marruecos,1,1
+Jorge Benitez,90,8avos,Paraguay,Francia,1,3
+Jorge Benitez,91,8avos,Brasil,Noruega,1,1
+Jorge Benitez,92,8avos,México,Inglaterra,1,2
+Jorge Benitez,93,8avos,Portugal,España,1,2
+Jorge Benitez,94,8avos,USA,Belgica,2,1
+Jorge Benitez,95,8avos,Argentina,Egipto,3,1
+Jorge Benitez,96,8avos,Suiza,Colombia,1,2
