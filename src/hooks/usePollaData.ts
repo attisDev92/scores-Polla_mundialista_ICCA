@@ -117,6 +117,14 @@ async function fetchMatches(rounds: number[]): Promise<OLDBMatch[]> {
 }
 
 function getRegulationScore(match: OLDBMatch): { ga: number; gb: number } {
+  const afterNinety = match.matchResults.find((result) => result.resultTypeID === 3);
+  if (afterNinety) {
+    return {
+      ga: afterNinety.pointsTeam1,
+      gb: afterNinety.pointsTeam2,
+    };
+  }
+
   const hasExtraTimeOrPenalties = match.matchResults.some(
     (result) => result.resultTypeID === 4 || result.resultTypeID === 5
   );
