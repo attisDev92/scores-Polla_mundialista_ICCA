@@ -88,6 +88,28 @@ const TEAM_CODE: Record<string, string> = {
   ghana: 'GHA', panama: 'PAN', 'panam\u00e1': 'PAN', inglaterra: 'ENG', croacia: 'HRV',
 };
 
+const PLAYER_NAME_ALIASES: Record<string, string> = {
+  'betsa paredes': 'Betsabe Paredes',
+  'besta paredes': 'Betsabe Paredes',
+  'betsabe paredes': 'Betsabe Paredes',
+};
+
+function normalizeText(value: string): string {
+  return value.trim().replace(/\s+/g, ' ');
+}
+
+function normalizePlayerName(value: string): string {
+  const normalized = normalizeText(value);
+  if (!normalized) return '';
+
+  const key = normalized
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
+
+  return PLAYER_NAME_ALIASES[key] ?? normalized;
+}
+
 function toCode(name: string): string {
   const key = name.trim().toLowerCase().normalize('NFC');
   // exact match
@@ -210,24 +232,31 @@ function parsePronosticos(csvText: string, stage: StageConfig): Pronostico[] {
     header: true,
     skipEmptyLines: true,
     dynamicTyping: false,
-    transformHeader: (header) => header.trim(),
+    transformHeader: (header) => header.replace(/^\uFEFF/, '').trim(),
   });
 
-  return data
-    .filter((row) => row.nombre && row.nombre.trim() !== 'nombre')
+  const rows = data
     .map((row) => ({
-      nombre: row.nombre.trim(),
+      nombre: normalizePlayerName(row.nombre ?? ''),
       id_partido: parseInt(row.id_partido, 10),
-      grupo: row.grupo?.trim() ?? stage.label,
-      etapa: row.etapa?.trim() ?? stage.label,
+      grupo: normalizeText(row.grupo ?? row.fase ?? stage.label),
+      etapa: normalizeText(row.etapa ?? row.fase ?? stage.label),
       etapaOrden: stage.order,
       equipo_a_code: toCode(row.equipo_a ?? ''),
       equipo_b_code: toCode(row.equipo_b ?? ''),
-      equipo_a: row.equipo_a?.trim() ?? '',
-      equipo_b: row.equipo_b?.trim() ?? '',
+      equipo_a: normalizeText(row.equipo_a ?? ''),
+      equipo_b: normalizeText(row.equipo_b ?? ''),
       goles_a: parseInt(row.goles_a, 10),
       goles_b: parseInt(row.goles_b, 10),
-    }));
+    }))
+    .filter((row) => row.nombre && !Number.isNaN(row.id_partido));
+
+  const deduped = new Map<string, Pronostico>();
+  for (const row of rows) {
+    deduped.set(`${row.nombre}__${row.id_partido}`, row);
+  }
+
+  return [...deduped.values()];
 }
 
 function buildResultados(

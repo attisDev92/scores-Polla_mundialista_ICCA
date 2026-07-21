@@ -1,11 +1,22 @@
+import { useEffect, useMemo, useState } from 'react';
 import { usePollaData } from './hooks/usePollaData';
 import Ranking from './components/Ranking';
+import PodiumModal from './components/PodiumModal';
 import './App.css';
 
 function App() {
   const { ranking, pronosticos, resultados, jugados, loading, error, lastUpdated } =
     usePollaData();
   const partidosTotales = resultados.length;
+  const podium = useMemo(() => ranking.slice(0, 3), [ranking]);
+  const [showPodium, setShowPodium] = useState(false);
+
+  useEffect(() => {
+    if (loading || error) return;
+    if (partidosTotales === 0 || jugados !== partidosTotales || podium.length < 3) return;
+    if (window.sessionStorage.getItem('podium-dismissed') === '1') return;
+    setShowPodium(true);
+  }, [loading, error, jugados, partidosTotales, podium.length]);
 
   return (
     <div className="app">
@@ -59,6 +70,16 @@ function App() {
           </>
         )}
       </main>
+
+      {!loading && !error && showPodium && podium.length >= 3 && (
+        <PodiumModal
+          players={podium}
+          onClose={() => {
+            window.sessionStorage.setItem('podium-dismissed', '1');
+            setShowPodium(false);
+          }}
+        />
+      )}
 
       <footer className="app-footer">
         <span>
